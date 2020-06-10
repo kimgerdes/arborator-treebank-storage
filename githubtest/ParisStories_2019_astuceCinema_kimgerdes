@@ -1,0 +1,1511 @@
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_1
+# text = c' était la , la , la f~ , la , notre technique pour aller au cinéma . le temps de faire le retour etc .
+# timestamp = 1590507647.446219
+1	c'	ce	PRON	_	_	2	subj	_	gov2=0|gov2_score=0|gov_score=43|rel2=subj@expl|rel2_score=14.06|rel_score=29.06|SpaceAfter=No|tag_score=43.12
+2	était	être	AUX	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=43|rel_score=43.12|tag2_score=14.06|tag_score=29.06
+3	la	le	DET	_	_	13	det	_	gov2=0|gov2_score=0|gov_score=43|rel2=mod|rel2_score=13.75|rel_score=29.37|tag_score=43.12
+4	,	_	PUNCT	_	_	5	punct	_	gov2=0|gov2_score=0|gov_score=43|rel_score=43.12|tag_score=43.12
+5	la	le	DET	_	_	3	conj:dicto	_	gov2=0|gov2_score=0|gov_score=43|rel_score=43.12|tag_score=43.12
+6	,	_	PUNCT	_	_	7	punct	_	gov2=0|gov2_score=0|gov_score=43|rel_score=43.12|tag_score=43.12
+7	la	le	DET	_	_	5	conj:dicto	_	gov2=0|gov2_score=0|gov_score=43|rel_score=43.12|tag_score=43.12
+8	f~	f~	X	_	_	7	unk@scrap	_	gov2=0|gov2_score=0|gov_score=43|rel2=unk@fixed|rel2_score=6.81|rel_score=36.31|tag_score=43.12
+9	,	_	PUNCT	_	_	10	punct	_	gov2=0|gov2_score=0|gov_score=43|rel_score=43.12|tag_score=43.12
+10	la	le	DET	_	_	7	conj:dicto	_	gov2=8|gov2_score=14.06|gov_score=29|rel_score=43.12|tag_score=43.12
+11	,	_	PUNCT	_	_	12	punct	_	gov2=13|gov2_score=8.5|gov_score=34|rel_score=43.12|tag_score=43.12
+12	notre	son	DET	_	_	10	conj:dicto	_	gov2=13|gov2_score=15.31|gov_score=27|rel2=det|rel2_score=15.31|rel_score=27.81|tag_score=43.12
+13	technique	_	NOUN	_	_	2	comp:pred	_	gov2=0|gov2_score=0|gov_score=43|rel2=comp:obj|rel2_score=8.5|rel_score=34.62|tag_score=43.12
+14	pour	pour	ADP	_	_	13	mod	_	gov2=0|gov2_score=0|gov_score=43|rel_score=43.12|tag_score=43.12
+15	aller	aller	VERB	_	_	14	comp:obj	_	gov2=0|gov2_score=0|gov_score=43|rel_score=43.12|tag_score=43.12
+16	au	à+le	ADP	_	_	15	comp:obl	_	gov2=0|gov2_score=0|gov_score=43|rel_score=43.12|tag_score=43.12
+17	cinéma	cinéma	NOUN	_	_	16	comp:obj	_	gov2=0|gov2_score=0|gov_score=43|rel_score=43.12|tag_score=43.12
+18	.	_	PUNCT	_	_	2	punct	_	gov2=0|gov2_score=0|gov_score=43|rel_score=43.12|tag_score=43.12
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_2
+# text = c' était au cinéma euh , euh MK2 , à quai de Seine .
+# timestamp = 1590507647.446234
+1	c'	ce	PRON	_	_	2	subj@expl	_	gov2=0|gov2_score=0|gov_score=46|rel2=subj|rel2_score=21.83|rel_score=24.91|SpaceAfter=No|tag_score=46.74
+2	était	être	AUX	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=46|rel_score=46.74|tag_score=46.74
+3	au	à+le	ADP	_	_	2	comp:pred	_	gov2=0|gov2_score=0|gov_score=46|rel2=mod|rel2_score=9.97|rel_score=36.77|tag_score=46.74
+4	cinéma	cinéma	NOUN	_	_	3	comp:obj	_	gov2=0|gov2_score=0|gov_score=46|rel_score=46.74|tag_score=46.74
+5	euh	euh	INTJ	_	_	8	discourse	_	gov2=4|gov2_score=9.97|gov_score=36|rel_score=46.74|tag_score=46.74
+6	,	_	PUNCT	_	_	8	punct	_	gov2=0|gov2_score=0|gov_score=46|rel_score=46.74|tag_score=46.74
+7	euh	euh	INTJ	_	_	8	discourse	_	gov2=0|gov2_score=0|gov_score=46|rel_score=46.74|tag_score=46.74
+8	MK2	mk2	PROPN	_	_	4	mod@appos	_	gov2=0|gov2_score=0|gov_score=46|rel2=conj:appos|rel2_score=9.97|rel_score=36.77|tag_score=46.74
+9	,	_	PUNCT	_	_	10	punct	_	gov2=0|gov2_score=0|gov_score=46|rel_score=46.74|tag_score=46.74
+10	à	à	ADP	_	_	4	mod	_	gov2=0|gov2_score=0|gov_score=46|rel_score=46.74|tag_score=46.74
+11	quai	quai	NOUN	_	_	10	comp:obj	_	gov2=0|gov2_score=0|gov_score=46|rel2=comp:obj@x|rel2_score=9.97|rel_score=36.77|tag_score=46.74
+12	de	de	ADP	_	_	11	mod	_	gov2=0|gov2_score=0|gov_score=46|rel_score=46.74|tag_score=46.74
+13	Seine	seine	PROPN	_	_	12	comp:obj	_	gov2=0|gov2_score=0|gov_score=46|rel_score=46.74|tag_score=46.74
+14	.	_	PUNCT	_	_	2	punct	_	gov2=0|gov2_score=0|gov_score=46|rel_score=46.74|tag_score=46.74
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_3
+# text = t' y es allée ou pas , à Jaurès ?
+# timestamp = 1590507647.446238
+1	t'	te	PRON	_	_	3	subj	_	gov2=0|gov2_score=0|gov_score=101|rel_score=101.67|SpaceAfter=No|tag_score=101.67
+2	y	y	PRON	_	_	4	comp:obl	_	gov2=3|gov2_score=41.34|gov_score=60|rel2=mod|rel2_score=24.61|rel_score=63|tag_score=101.67
+3	es	être	AUX	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=101|rel_score=101.67|tag_score=101.67
+4	allée	aller	VERB	_	_	3	comp:aux	_	gov2=0|gov2_score=0|gov_score=101|rel_score=101.67|tag_score=101.67
+5	ou	ou	CCONJ	_	_	6	cc	_	gov2=0|gov2_score=0|gov_score=101|rel_score=101.67|tag_score=101.67
+6	pas	pas	ADV	_	_	4	conj:coord	_	gov2=0|gov2_score=0|gov_score=101|rel2=mod|rel2_score=29.75|rel_score=71.92|tag_score=101.67
+7	,	_	PUNCT	_	_	8	punct	_	gov2=0|gov2_score=0|gov_score=101|rel_score=101.67|tag_score=101.67
+8	à	à	ADP	_	_	4	dislocated	_	gov2=2|gov2_score=32.53|gov_score=69|rel2=comp:obl|rel2_score=22.42|rel_score=57|tag_score=101.67
+9	Jaurès	jaurès	PROPN	_	_	8	comp:obj	_	gov2=0|gov2_score=0|gov_score=101|rel2=comp:obl|rel2_score=7.5|rel_score=94.17|tag_score=101.67
+10	?	_	PUNCT	_	_	3	punct	_	gov2=0|gov2_score=0|gov_score=101|rel_score=101.67|tag_score=101.67
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_4
+# text = oui .
+# timestamp = 1590507647.446241
+1	oui	oui	INTJ	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=56|rel_score=56.22|tag2_score=7.78|tag_score=44.66
+2	.	_	PUNCT	_	_	1	punct	_	gov2=0|gov2_score=0|gov_score=56|rel_score=56.22|tag_score=56.22
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_5
+# text = et bah , et genre euh tu sais , enfin je sais pas si c' est dans beaucoup de cinémas mais genre au MK2
+# timestamp = 1590507647.446244
+1	et	et	CCONJ	_	_	12	cc	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.64|tag_score=59.64
+2	bah	bah	INTJ	_	_	12	discourse	_	gov2=1|gov2_score=18.56|gov_score=41|rel2=unk@scrap|rel2_score=18.56|rel_score=41.08|tag_score=59.64
+3	,	_	PUNCT	_	_	2	punct	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.64|tag_score=59.64
+4	et	et	CCONJ	_	_	1	conj:dicto	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.64|tag_score=59.64
+5	genre	genre	NOUN	_	_	12	discourse	_	gov2=8|gov2_score=10.47|gov_score=45|rel2=conj:dicto|rel2_score=10.47|rel_score=49.17|tag2_score=10.47|tag_score=49.17
+6	euh	euh	INTJ	_	_	12	discourse	_	gov2=8|gov2_score=10.47|gov_score=49|rel_score=59.64|tag2_score=10.47|tag_score=49.17
+7	tu	tu	PRON	_	_	8	subj	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.64|tag_score=59.64
+8	sais	savoir	VERB	_	_	12	discourse	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.64|tag_score=59.64
+9	,	_	PUNCT	_	_	10	punct	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.64|tag_score=59.64
+10	enfin	enfin	ADV	_	_	12	discourse	_	gov2=11|gov2_score=9.94|gov_score=49|rel_score=59.64|tag_score=59.64
+11	je	je	PRON	_	_	12	subj	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.64|tag_score=59.64
+12	sais	savoir	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=59|rel_score=59.64|tag_score=59.64
+13	pas	pas	ADV	_	_	12	mod	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.64|tag_score=59.64
+14	si	si	SCONJ	_	_	12	comp:obj	_	gov2=13|gov2_score=9.94|gov_score=49|rel2=mod|rel2_score=9.94|rel_score=49.7|tag_score=59.64
+15	c'	ce	PRON	_	_	16	subj	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.64|SpaceAfter=No|tag_score=59.64
+16	est	être	VERB	_	_	14	comp:obj	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.64|tag2_score=24.19|tag_score=35.45
+17	dans	dans	ADP	_	_	16	comp:pred	_	gov2=0|gov2_score=0|gov_score=59|rel2=comp:obl|rel2_score=28.5|rel_score=31.14|tag_score=59.64
+18	beaucoup	beaucoup	ADV	_	_	17	comp:obj	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.64|tag_score=59.64
+19	de	de	ADP	_	_	18	comp:obl	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.64|tag_score=59.64
+20	cinémas	cinémas	NOUN	_	_	19	comp:obj	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.64|tag_score=59.64
+21	mais	mais	ADV	_	_	23	cc	_	gov2=22|gov2_score=3.78|gov_score=55|rel_score=59.64|tag2_score=18.56|tag_score=41.08
+22	genre	genre	NOUN	_	_	23	discourse	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.64|tag2_score=10.47|tag_score=49.17
+23	au	à+le	ADP	_	_	17	conj:coord	_	gov2=12|gov2_score=18.56|gov_score=41|rel_score=59.64|tag_score=59.64
+24	MK2	mk2	PROPN	_	_	23	comp:obj	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.64|tag_score=59.64
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_6
+# text = euh , je sais même pas si c' est dans tous les MK2 ,
+# timestamp = 1590507647.446247
+1	euh	euh	INTJ	_	_	4	discourse	_	gov2=0|gov2_score=0|gov_score=18|rel_score=18.75|tag_score=18.75
+2	,	_	PUNCT	_	_	1	punct	_	gov2=0|gov2_score=0|gov_score=18|rel_score=18.75|tag_score=18.75
+3	je	je	PRON	_	_	4	subj	_	gov2=0|gov2_score=0|gov_score=18|rel_score=18.75|tag_score=18.75
+4	sais	savoir	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=18|rel_score=18.75|tag_score=18.75
+5	même	même	ADV	_	_	6	mod	_	gov2=0|gov2_score=0|gov_score=18|rel_score=18.75|tag_score=18.75
+6	pas	pas	ADV	_	_	4	mod	_	gov2=0|gov2_score=0|gov_score=18|rel_score=18.75|tag_score=18.75
+7	si	si	SCONJ	_	_	4	comp:obj	_	gov2=0|gov2_score=0|gov_score=18|rel_score=18.75|tag_score=18.75
+8	c'	ce	PRON	_	_	9	subj	_	gov2=0|gov2_score=0|gov_score=18|rel_score=18.75|SpaceAfter=No|tag_score=18.75
+9	est	être	AUX	_	_	7	comp:obj	_	gov2=0|gov2_score=0|gov_score=18|rel_score=18.75|tag_score=18.75
+10	dans	dans	ADP	_	_	9	comp:obl	_	gov2=0|gov2_score=0|gov_score=18|rel_score=18.75|tag_score=18.75
+11	tous	tout	ADJ	_	_	13	mod	_	gov2=0|gov2_score=0|gov_score=18|rel_score=18.75|tag_score=18.75
+12	les	le	DET	_	_	13	det	_	gov2=0|gov2_score=0|gov_score=18|rel_score=18.75|tag_score=18.75
+13	MK2	mk2	PROPN	_	_	10	comp:obj	_	gov2=0|gov2_score=0|gov_score=18|rel_score=18.75|tag_score=18.75
+14	,	_	PUNCT	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=18|rel_score=18.75|tag_score=18.75
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_7
+# text = et il y a une porte de sortie dans différente dans chaque salle qui mène directement dans la rue .
+# timestamp = 1590507647.44625
+1	et	et	CCONJ	_	_	4	cc	_	gov2=0|gov2_score=0|gov_score=26|rel_score=26.97|tag_score=26.97
+2	il	il	PRON	_	_	4	subj	_	gov2=0|gov2_score=0|gov_score=26|rel2=subj@expl|rel2_score=7.28|rel_score=19.69|tag_score=26.97
+3	y	y	PRON	_	_	4	comp:obl	_	gov2=0|gov2_score=0|gov_score=26|rel2=mod|rel2_score=4.83|rel_score=22.14|tag_score=26.97
+4	a	avoir	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=26|rel_score=26.97|tag_score=26.97
+5	une	un	DET	_	_	6	det	_	gov2=0|gov2_score=0|gov_score=26|rel_score=26.97|tag_score=26.97
+6	porte	porte	NOUN	_	_	4	comp:obj	_	gov2=0|gov2_score=0|gov_score=26|rel_score=26.97|tag_score=26.97
+7	de	de	ADP	_	_	6	mod	_	gov2=0|gov2_score=0|gov_score=26|rel_score=26.97|tag_score=26.97
+8	sortie	sortie	NOUN	_	_	7	comp:obj	_	gov2=0|gov2_score=0|gov_score=26|rel_score=26.97|tag_score=26.97
+9	dans	dans	ADP	_	_	6	comp:obl	_	gov2=0|gov2_score=0|gov_score=26|rel2=mod|rel2_score=12.11|rel_score=14.86|tag_score=26.97
+10	différente	_	ADJ	_	_	9	comp:obj	_	gov2=20|gov2_score=7.28|gov_score=19|rel_score=19.69|tag2_score=4.83|tag_score=22.14
+11	dans	dans	ADP	_	_	9	conj:dicto	_	gov2=0|gov2_score=0|gov_score=26|rel_score=26.97|tag_score=26.97
+12	chaque	chaque	DET	_	_	13	det	_	gov2=10|gov2_score=7.28|gov_score=19|rel2=conj:dicto|rel2_score=7.28|rel_score=19.69|tag_score=26.97
+13	salle	_	NOUN	_	_	11	comp:obj	_	gov2=0|gov2_score=0|gov_score=26|rel_score=26.97|tag_score=26.97
+14	qui	qui	PRON	_	_	15	subj	_	gov2=0|gov2_score=0|gov_score=26|rel_score=26.97|tag2_score=7.28|tag_score=19.69
+15	mène	mener	VERB	_	_	6	mod	_	gov2=0|gov2_score=0|gov_score=26|rel2=mod@relcl|rel2_score=7.28|rel_score=14.86|tag_score=26.97
+16	directement	directement	ADV	_	_	15	mod	_	gov2=17|gov2_score=4.83|gov_score=22|rel_score=26.97|tag_score=26.97
+17	dans	dans	ADP	_	_	15	comp:obl	_	gov2=0|gov2_score=0|gov_score=26|rel_score=26.97|tag_score=26.97
+18	la	le	DET	_	_	19	det	_	gov2=0|gov2_score=0|gov_score=26|rel_score=26.97|tag_score=26.97
+19	rue	rue	NOUN	_	_	17	comp:obj	_	gov2=0|gov2_score=0|gov_score=26|rel_score=26.97|tag_score=26.97
+20	.	_	PUNCT	_	_	4	punct	_	gov2=0|gov2_score=0|gov_score=26|rel_score=26.97|tag_score=26.97
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_8
+# text = et euh , et du coup , on avait élaboré une technique , au fil des mois , qui s' est précisée euh au fil du temps ,
+# timestamp = 1590507647.446253
+1	et	et	CCONJ	_	_	9	cc	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+2	euh	euh	INTJ	_	_	4	discourse	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+3	,	_	PUNCT	_	_	2	punct	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+4	et	et	CCONJ	_	_	1	conj:dicto	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+5	du	de+le	ADP	_	_	9	discourse	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+6	coup	coup	NOUN	_	_	5	comp:obj	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag2_score=10.47|tag_score=55.3
+7	,	_	PUNCT	_	_	5	punct	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+8	on	on	PRON	_	_	9	subj	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+9	avait	avoir	AUX	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+10	élaboré	_	VERB	_	_	9	comp:aux	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+11	une	un	DET	_	_	12	det	_	gov2=0|gov2_score=0|gov_score=65|rel2=mod|rel2_score=10.47|rel_score=55.3|tag_score=65.77
+12	technique	_	NOUN	_	_	10	comp:obj	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+13	,	_	PUNCT	_	_	14	punct	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+14	au	à+le	ADP	_	_	10	mod	_	gov2=9|gov2_score=13.97|gov_score=51|rel_score=65.77|tag_score=65.77
+15	fil	fil	NOUN	_	_	14	comp:obj	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+16	des	de+le	ADP	_	_	15	mod	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+17	mois	mois	NOUN	_	_	16	comp:obj	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+18	,	_	PUNCT	_	_	21	punct	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+19	qui	qui	PRON	_	_	21	subj	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+20	s'	se	PRON	_	_	22	comp@fixed	_	gov2=0|gov2_score=0|gov_score=65|rel2=comp:obj|rel2_score=30|rel_score=35.77|SpaceAfter=No|tag_score=65.77
+21	est	être	AUX	_	_	12	mod@relcl	_	gov2=9|gov2_score=13.97|gov_score=51|rel2=mod|rel2_score=14.86|rel_score=50.91|tag_score=65.77
+22	précisée	préciser	VERB	_	_	21	comp:aux	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+23	euh	euh	INTJ	_	_	24	discourse	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+24	au	à+le	ADP	_	_	22	mod	_	gov2=21|gov2_score=13.97|gov_score=51|rel_score=65.77|tag_score=65.77
+25	fil	fil	NOUN	_	_	24	comp:obj	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+26	du	de+le	ADP	_	_	25	mod	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+27	temps	temps	NOUN	_	_	26	comp:obj	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+28	,	_	PUNCT	_	_	9	punct	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.77|tag_score=65.77
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_9
+# text = et donc genre le principe c' est que tu viens avec autant de potes que possible .
+# timestamp = 1590507647.446255
+1	et	et	CCONJ	_	_	7	cc	_	gov2=0|gov2_score=0|gov_score=66|rel2=discourse|rel2_score=22.28|rel_score=44.19|tag_score=66.47
+2	donc	donc	ADV	_	_	7	mod	_	gov2=1|gov2_score=9.94|gov_score=56|rel2=discourse|rel2_score=27.19|rel_score=39.28|tag_score=66.47
+3	genre	genre	NOUN	_	_	7	discourse	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.47|tag_score=66.47
+4	le	le	DET	_	_	5	det	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.47|tag_score=66.47
+5	principe	principe	NOUN	_	_	7	dislocated	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.47|tag_score=66.47
+6	c'	ce	PRON	_	_	7	subj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.47|SpaceAfter=No|tag_score=66.47
+7	est	être	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=66|rel_score=66.47|tag_score=66.47
+8	que	que	SCONJ	_	_	7	comp:pred	_	gov2=0|gov2_score=0|gov_score=66|highlight=pink|rel2=comp:obj|rel2_score=27.66|rel_score=28.84|tag_score=66.47
+9	tu	tu	PRON	_	_	10	subj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.47|tag_score=66.47
+10	viens	venir	VERB	_	_	8	comp:obj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.47|tag2_score=12.31|tag_score=54.16
+11	avec	avec	ADP	_	_	10	mod	_	gov2=0|gov2_score=0|gov_score=66|rel2=comp:obl|rel2_score=12.31|rel_score=54.16|tag2_score=9.97|tag_score=56.5
+12	autant	autant	ADV	_	_	11	comp:obj	_	gov2=0|gov2_score=0|gov_score=66|rel2=comp:obj@x|rel2_score=9.97|rel_score=56.5|tag_score=66.47
+13	de	de	ADP	_	_	12	comp:obl	_	gov2=0|gov2_score=0|gov_score=66|rel2=comp:obj|rel2_score=10.44|rel_score=46.06|tag_score=66.47
+14	potes	pote	NOUN	_	_	13	comp:obj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.47|tag_score=66.47
+15	que	que	SCONJ	_	_	12	comp:obj	_	gov2=0|gov2_score=0|gov_score=66|rel2=comp:obj@x|rel2_score=9.97|rel_score=56.5|tag_score=66.47
+16	possible	possible	ADJ	_	_	15	comp:obj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.47|tag_score=66.47
+17	.	_	PUNCT	_	_	7	punct	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.47|tag_score=66.47
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_10
+# text = plus , plus , plus t' es nombreux mieux c' est , tu vois .
+# timestamp = 1590507647.446258
+1	plus	plus	ADV	_	_	7	mod	_	gov2=0|gov2_score=9.97|gov_score=21|rel2=root|rel2_score=9.97|rel_score=21.36|tag_score=31.33
+2	,	_	PUNCT	_	_	3	punct	_	gov2=0|gov2_score=0|gov_score=31|rel_score=31.33|tag_score=31.33
+3	plus	plus	ADV	_	_	1	conj:dicto	_	gov2=0|gov2_score=0|gov_score=31|rel_score=31.33|tag_score=31.33
+4	,	_	PUNCT	_	_	5	punct	_	gov2=0|gov2_score=0|gov_score=31|rel_score=31.33|tag_score=31.33
+5	plus	plus	ADV	_	_	3	conj:dicto	_	gov2=0|gov2_score=0|gov_score=31|rel_score=31.33|tag_score=31.33
+6	t'	te	PRON	_	_	7	subj	_	gov2=0|gov2_score=0|gov_score=31|rel_score=31.33|SpaceAfter=No|tag_score=31.33
+7	es	être	AUX	_	_	0	root	_	gov2=5|gov2_score=9.97|gov_score=21|rel2=comp:obj@x|rel2_score=9.97|rel_score=21.36|tag_score=31.33
+8	nombreux	nombreux	ADJ	_	_	7	comp:pred	_	gov2=0|gov2_score=0|gov_score=31|rel_score=31.33|tag_score=31.33
+9	mieux	mieux	ADV	_	_	11	mod	_	gov2=1|gov2_score=9.97|gov_score=21|rel2=conj:coord|rel2_score=9.97|rel_score=21.36|tag_score=31.33
+10	c'	ce	PRON	_	_	11	subj	_	gov2=0|gov2_score=0|gov_score=31|rel_score=31.33|SpaceAfter=No|tag_score=31.33
+11	est	être	AUX	_	_	7	conj:appos	_	gov2=9|gov2_score=9.97|gov_score=21|highlight=pink|rel2=conj:coord|rel2_score=10.47|rel_score=10.89|tag_score=31.33
+12	,	_	PUNCT	_	_	14	punct	_	gov2=0|gov2_score=0|gov_score=31|rel_score=31.33|tag_score=31.33
+13	tu	tu	PRON	_	_	14	subj	_	gov2=0|gov2_score=0|gov_score=31|rel_score=31.33|tag_score=31.33
+14	vois	voir	VERB	_	_	7	discourse	_	gov2=1|gov2_score=9.97|gov_score=21|rel_score=31.33|tag_score=31.33
+15	.	_	PUNCT	_	_	7	punct	_	gov2=1|gov2_score=9.97|gov_score=21|rel_score=31.33|tag_score=31.33
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_11
+# text = plus t' es nombreux mieux c' est ,
+# timestamp = 1590507647.446261
+1	plus	plus	ADV	_	_	3	mod	_	gov2=2|gov2_score=4.67|gov_score=32|rel_score=36.7|tag_score=36.7
+2	t'	te	PRON	_	_	3	subj	_	gov2=0|gov2_score=0|gov_score=36|rel_score=36.7|SpaceAfter=No|tag_score=36.7
+3	es	être	AUX	_	_	0	root	_	gov2=7|gov2_score=10.44|gov_score=26|rel2=dislocated|rel2_score=10.44|rel_score=26.26|tag2_score=7.28|tag_score=29.42
+4	nombreux	nombreux	ADJ	_	_	3	comp:obj	_	gov2=0|gov2_score=0|gov_score=36|rel2=comp:pred|rel2_score=17.25|rel_score=19.45|tag_score=36.7
+5	mieux	mieux	ADV	_	_	7	mod	_	gov2=6|gov2_score=7.28|gov_score=29|rel2=comp:pred|rel2_score=10.44|rel_score=26.26|tag2_score=10.44|tag_score=26.26
+6	c'	ce	PRON	_	_	7	subj	_	gov2=0|gov2_score=0|gov_score=36|rel_score=36.7|SpaceAfter=No|tag_score=36.7
+7	est	être	AUX	_	_	3	conj:coord	_	gov2=0|gov2_score=10.44|gov_score=26|rel2=root|rel2_score=10.44|rel_score=26.26|tag2_score=7.28|tag_score=29.42
+8	,	_	PUNCT	_	_	7	punct	_	gov2=0|gov2_score=14.78|gov_score=15|rel_score=36.7|tag_score=36.7
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_12
+# text = tu ra~ mets l' argent en commun ,
+# timestamp = 1590507647.446267
+1	tu	tu	PRON	_	_	2	subj	_	gov2=3|gov2_score=10.28|gov_score=32|rel_score=43.23|tag_score=43.23
+2	ra~	ra~	VERB	_	_	0	root	_	gov2=3|gov2_score=10.28|gov_score=32|rel2=unk@scrap|rel2_score=10.28|rel_score=32.95|tag_score=43.23
+3	mets	mettre	VERB	_	_	2	conj:appos	_	gov2=0|gov2_score=10.28|gov_score=32|rel2=root|rel2_score=10.28|rel_score=15.92|tag_score=43.23
+4	l'	le	DET	_	_	5	det	_	gov2=0|gov2_score=0|gov_score=43|rel_score=43.23|SpaceAfter=No|tag_score=43.23
+5	argent	argent	NOUN	_	_	3	comp:obj	_	gov2=0|gov2_score=0|gov_score=43|rel_score=43.23|tag_score=43.23
+6	en	en	ADP	_	_	5	mod	_	gov2=3|gov2_score=10.28|gov_score=32|rel_score=43.23|tag_score=43.23
+7	commun	commun	NOUN	_	_	6	comp:obj	_	gov2=0|gov2_score=0|gov_score=43|rel_score=43.23|tag2_score=10.28|tag_score=32.95
+8	,	_	PUNCT	_	_	2	punct	_	gov2=3|gov2_score=10.28|gov_score=32|rel_score=43.23|tag_score=43.23
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_13
+# text = il y a deux personnes qui font la queue ,
+# timestamp = 1590507647.44627
+1	il	il	PRON	_	_	3	subj	_	gov2=0|gov2_score=0|gov_score=48|rel2=subj@expl|rel2_score=13.97|rel_score=34.58|tag_score=48.55
+2	y	y	PRON	_	_	3	comp:obl	_	gov2=0|gov2_score=0|gov_score=48|rel2=mod|rel2_score=8.53|rel_score=40.02|tag_score=48.55
+3	a	avoir	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=48|rel_score=48.55|tag_score=48.55
+4	deux	deux	NUM	_	_	5	det	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.55|tag_score=48.55
+5	personnes	personne	NOUN	_	_	3	comp:obj	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.55|tag_score=48.55
+6	qui	qui	PRON	_	_	7	subj	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.55|tag_score=48.55
+7	font	faire	VERB	_	_	5	mod@relcl	_	gov2=0|gov2_score=0|gov_score=48|rel2=mod|rel2_score=8.53|rel_score=40.02|tag_score=48.55
+8	la	le	DET	_	_	9	det	_	gov2=0|gov2_score=0|gov_score=48|rel2=mod|rel2_score=11.47|rel_score=37.08|tag_score=48.55
+9	queue	queue	NOUN	_	_	7	comp:obj	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.55|tag_score=48.55
+10	,	_	PUNCT	_	_	3	punct	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.55|tag_score=48.55
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_14
+# text = et ils achètent deux tickets .
+# timestamp = 1590507647.446272
+1	et	et	CCONJ	_	_	3	cc	_	gov2=2|gov2_score=7.94|gov_score=67|rel_score=75.9|tag_score=75.9
+2	ils	il	PRON	_	_	3	subj	_	gov2=0|gov2_score=0|gov_score=75|rel_score=75.9|tag_score=75.9
+3	achètent	acheter	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=75|rel_score=75.9|tag_score=75.9
+4	deux	deux	NUM	_	_	5	det	_	gov2=0|gov2_score=0|gov_score=75|rel2=mod|rel2_score=13.33|rel_score=62.57|tag_score=75.9
+5	tickets	ticket	NOUN	_	_	3	comp:obj	_	gov2=0|gov2_score=0|gov_score=75|rel_score=75.9|tag_score=75.9
+6	.	_	PUNCT	_	_	3	punct	_	gov2=0|gov2_score=0|gov_score=75|rel_score=75.9|tag_score=75.9
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_15
+# text = donc ensuite ils rentrent dans la salle , normal ,
+# timestamp = 1590507647.446275
+1	donc	donc	ADV	_	_	4	discourse	_	gov2=0|gov2_score=0|gov_score=60|rel2=cc|rel2_score=13.33|rel_score=47.58|tag_score=60.91
+2	ensuite	ensuite	ADV	_	_	4	mod	_	gov2=0|gov2_score=0|gov_score=60|rel_score=60.91|tag_score=60.91
+3	ils	il	PRON	_	_	4	subj	_	gov2=0|gov2_score=0|gov_score=60|rel_score=60.91|tag_score=60.91
+4	rentrent	rentrer	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=60|rel_score=60.91|tag_score=60.91
+5	dans	dans	ADP	_	_	4	comp:obl	_	gov2=0|gov2_score=0|gov_score=60|rel_score=60.91|tag_score=60.91
+6	la	le	DET	_	_	7	det	_	gov2=0|gov2_score=0|gov_score=60|rel_score=60.91|tag_score=60.91
+7	salle	_	NOUN	_	_	5	comp:obj	_	gov2=0|gov2_score=0|gov_score=60|rel_score=60.91|tag_score=60.91
+8	,	_	PUNCT	_	_	9	punct	_	gov2=0|gov2_score=0|gov_score=60|rel_score=60.91|tag_score=60.91
+9	normal	normal	ADJ	_	_	4	discourse	_	gov2=7|gov2_score=24.39|gov_score=36|rel2=mod|rel2_score=24.39|rel_score=32.74|tag_score=60.91
+10	,	_	PUNCT	_	_	4	punct	_	gov2=0|gov2_score=0|gov_score=60|rel_score=60.91|tag_score=60.91
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_16
+# text = et les autres ils vont attendre dehors et parce que en fait il faut deux personnes parce qu' il y a deux portes coupe-feu pour euh aller de la salle à l~ à l' extérieur .
+# timestamp = 1590507647.446278
+1	et	et	CCONJ	_	_	5	cc	_	gov2=0|gov2_score=0|gov_score=96|rel_score=96.98|tag_score=96.98
+2	les	le	DET	_	_	3	det	_	gov2=0|gov2_score=0|gov_score=96|rel_score=96.98|tag_score=96.98
+3	autres	autre	PRON	_	_	5	dislocated	_	gov2=0|gov2_score=0|gov_score=96|rel2=subj|rel2_score=17.94|rel_score=79.04|tag_score=96.98
+4	ils	il	PRON	_	_	5	subj	_	gov2=3|gov2_score=11.47|gov_score=85|rel2=conj:appos|rel2_score=11.47|rel_score=79.04|tag_score=96.98
+5	vont	aller	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=96|rel_score=96.98|tag_score=96.98
+6	attendre	attendre	VERB	_	_	5	comp:obj@x	_	gov2=0|gov2_score=0|gov_score=96|rel2=comp:aux|rel2_score=6.47|rel_score=90.51|tag_score=96.98
+7	dehors	dehors	ADV	_	_	6	mod	_	gov2=0|gov2_score=0|gov_score=96|rel2=comp:pred|rel2_score=6.47|rel_score=90.51|tag_score=96.98
+8	et	et	CCONJ	_	_	9	cc	_	gov2=5|gov2_score=4|gov_score=92|rel2=discourse|rel2_score=4|rel_score=92.98|tag_score=96.98
+9	parce	parce	SCONJ	_	_	5	mod	_	gov2=6|gov2_score=13.75|gov_score=79|rel2=cc|rel2_score=4|rel_score=92.98|tag_score=96.98
+10	que	que	SCONJ	_	_	9	unk@fixed	_	gov2=0|gov2_score=0|gov_score=96|rel_score=96.98|tag_score=96.98
+11	en	en	ADP	_	_	14	discourse	_	gov2=0|gov2_score=0|gov_score=96|rel2=mod|rel2_score=14.44|rel_score=82.54|tag_score=96.98
+12	fait	faire	NOUN	_	_	11	comp:obj	_	gov2=0|gov2_score=0|gov_score=96|rel2=comp@fixed|rel2_score=14.44|rel_score=82.54|tag_score=96.98
+13	il	il	PRON	_	_	14	subj@expl	_	gov2=0|gov2_score=0|gov_score=96|rel2=subj|rel2_score=41.35|rel_score=55.63|tag_score=96.98
+14	faut	falloir	VERB	_	_	9	comp:obj	_	gov2=0|gov2_score=6.47|gov_score=86|rel2=root|rel2_score=6.47|rel_score=86.51|tag_score=96.98
+15	deux	deux	NUM	_	_	16	det	_	gov2=0|gov2_score=0|gov_score=96|rel_score=96.98|tag_score=96.98
+16	personnes	personne	NOUN	_	_	14	comp:obj	_	gov2=0|gov2_score=0|gov_score=96|rel_score=96.98|tag_score=96.98
+17	parce	parce	SCONJ	_	_	14	mod	_	gov2=9|gov2_score=4|gov_score=92|rel2=conj:dicto|rel2_score=4|rel_score=92.98|tag2_score=12.86|tag_score=84.12
+18	qu'	que	SCONJ	_	_	17	unk@fixed	_	gov2=0|gov2_score=0|gov_score=96|rel_score=96.98|SpaceAfter=No|tag_score=96.98
+19	il	il	PRON	_	_	21	subj	_	gov2=0|gov2_score=0|gov_score=96|rel2=subj@expl|rel2_score=45.88|rel_score=51.1|tag_score=96.98
+20	y	y	PRON	_	_	21	comp:obl	_	gov2=0|gov2_score=0|gov_score=96|rel2=mod|rel2_score=22.77|rel_score=74.21|tag_score=96.98
+21	a	avoir	VERB	_	_	17	comp:obj	_	gov2=36|gov2_score=6.47|gov_score=90|rel_score=90.51|tag_score=96.98
+22	deux	deux	NUM	_	_	23	det	_	gov2=0|gov2_score=0|gov_score=96|rel_score=96.98|tag_score=96.98
+23	portes	porte	NOUN	_	_	21	comp:obj	_	gov2=0|gov2_score=0|gov_score=96|rel_score=96.98|tag_score=96.98
+24	coupe-feu	coupe-feu	NOUN	_	_	23	mod	_	gov2=0|gov2_score=0|gov_score=96|rel_score=96.98|tag2_score=41.88|tag_score=55.1
+25	pour	pour	ADP	_	_	23	mod	_	gov2=36|gov2_score=6.47|gov_score=90|rel2=comp:obl|rel2_score=4.83|rel_score=85.68|tag_score=96.98
+26	euh	euh	INTJ	_	_	27	discourse	_	gov2=14|gov2_score=6.47|gov_score=90|rel_score=96.98|tag_score=96.98
+27	aller	aller	VERB	_	_	25	comp:obj	_	gov2=0|gov2_score=0|gov_score=96|rel_score=96.98|tag2_score=11.47|tag_score=85.51
+28	de	de	ADP	_	_	27	comp:obl	_	gov2=0|gov2_score=0|gov_score=96|rel_score=96.98|tag2_score=12.86|tag_score=84.12
+29	la	le	DET	_	_	30	det	_	gov2=0|gov2_score=0|gov_score=96|rel_score=96.98|tag_score=96.98
+30	salle	_	NOUN	_	_	28	comp:obj	_	gov2=0|gov2_score=0|gov_score=96|rel_score=96.98|tag_score=96.98
+31	à	à	ADP	_	_	28	conj:coord	_	gov2=27|gov2_score=14.58|gov_score=71|rel2=comp:obl|rel2_score=14.58|rel_score=71.1|tag_score=96.98
+32	l~	l~	DET	_	_	31	comp:obj	_	gov2=0|gov2_score=0|gov_score=96|rel2=comp:obj@scrap|rel2_score=27.44|rel_score=63.07|tag_score=96.98
+33	à	à	ADP	_	_	31	conj:dicto	_	gov2=0|gov2_score=0|gov_score=96|rel_score=96.98|tag_score=96.98
+34	l'	le	DET	_	_	35	det	_	gov2=0|gov2_score=0|gov_score=96|rel_score=96.98|SpaceAfter=No|tag_score=96.98
+35	extérieur	_	NOUN	_	_	33	comp:obj	_	gov2=0|gov2_score=0|gov_score=96|rel_score=96.98|tag_score=96.98
+36	.	_	PUNCT	_	_	5	punct	_	gov2=0|gov2_score=0|gov_score=96|rel_score=96.98|tag_score=96.98
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_17
+# text = donc du coup c' est des portes coupe-feu qui ont pas de , qui ont pas de poignée quoi ,
+# timestamp = 1590507647.446281
+1	donc	donc	ADV	_	_	5	discourse	_	gov2=0|gov2_score=0|gov_score=36|rel2=cc|rel2_score=9.97|rel_score=26.78|tag_score=36.75
+2	du	de+le	ADP	_	_	5	discourse	_	gov2=1|gov2_score=7.28|gov_score=29|rel_score=36.75|tag_score=36.75
+3	coup	coup	NOUN	_	_	2	comp:obj	_	gov2=0|gov2_score=0|gov_score=36|rel_score=36.75|tag_score=36.75
+4	c'	ce	PRON	_	_	5	subj	_	gov2=0|gov2_score=0|gov_score=36|rel_score=36.75|SpaceAfter=No|tag_score=36.75
+5	est	être	AUX	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=36|rel_score=36.75|tag2_score=7.28|tag_score=29.47
+6	des	de+le	DET	_	_	7	det	_	gov2=0|gov2_score=0|gov_score=36|rel_score=36.75|tag_score=36.75
+7	portes	porte	NOUN	_	_	5	comp:pred	_	gov2=0|gov2_score=0|gov_score=36|rel_score=36.75|tag_score=36.75
+8	coupe-feu	coupe-feu	NOUN	_	_	7	mod	_	gov2=0|gov2_score=0|gov_score=36|rel_score=36.75|tag2_score=5.75|tag_score=31
+9	qui	qui	PRON	_	_	10	subj	_	gov2=0|gov2_score=0|gov_score=36|rel_score=36.75|tag_score=36.75
+10	ont	avoir	VERB	_	_	7	mod	_	gov2=0|gov2_score=0|gov_score=36|highlight=pink|rel2=mod@relcl|rel2_score=13.03|rel_score=13.75|tag_score=36.75
+11	pas	pas	ADV	_	_	10	mod	_	gov2=0|gov2_score=0|gov_score=36|rel_score=36.75|tag2_score=5.75|tag_score=31
+12	de	de	ADP	_	_	10	comp:obl	_	gov2=0|gov2_score=0|gov_score=36|rel2=comp:obj|rel2_score=13.75|rel_score=23|tag_score=36.75
+13	,	_	PUNCT	_	_	15	punct	_	gov2=0|gov2_score=0|gov_score=36|rel_score=36.75|tag_score=36.75
+14	qui	qui	PRON	_	_	15	subj	_	gov2=0|gov2_score=0|gov_score=36|rel_score=36.75|tag_score=36.75
+15	ont	avoir	VERB	_	_	10	conj:dicto	_	gov2=0|gov2_score=0|gov_score=36|rel_score=36.75|tag_score=36.75
+16	pas	pas	ADV	_	_	15	mod	_	gov2=0|gov2_score=0|gov_score=36|rel_score=36.75|tag_score=36.75
+17	de	de	ADP	_	_	15	comp:obj	_	gov2=18|gov2_score=9.97|gov_score=26|highlight=pink|rel2=comp:obl|rel2_score=13.03|rel_score=13.75|tag2_score=9.97|tag_score=26.78
+18	poignée	_	NOUN	_	_	17	comp:obj	_	gov2=15|gov2_score=9.97|gov_score=26|rel_score=36.75|tag_score=36.75
+19	quoi	quoi	INTJ	_	_	5	discourse	_	gov2=0|gov2_score=0|gov_score=36|rel_score=36.75|tag_score=36.75
+20	,	_	PUNCT	_	_	5	punct	_	gov2=0|gov2_score=0|gov_score=36|rel_score=36.75|tag_score=36.75
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_18
+# text = et du coup et bah il faut qu' il y ait une personne qui passe la première porte , et qui aille à la porte de dehors , et ensuite qu' il fasse rentrer les autres qui sont restés dehors , tu vois , donc genre tes douze potes qui sont venus et qui euh , qui ont pas payé leur ticket .
+# timestamp = 1590507647.446284
+1	et	et	CCONJ	_	_	7	cc	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+2	du	de+le	ADP	_	_	7	discourse	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+3	coup	coup	NOUN	_	_	2	comp:obj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+4	et	et	CCONJ	_	_	7	cc	_	gov2=1|gov2_score=13.33|gov_score=15|rel2=conj:dicto|rel2_score=13.33|rel_score=15.27|tag_score=28.6
+5	bah	bah	INTJ	_	_	7	discourse	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+6	il	il	PRON	_	_	7	subj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+7	faut	falloir	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+8	qu'	que	SCONJ	_	_	7	comp:obj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|SpaceAfter=No|tag_score=28.6
+9	il	il	PRON	_	_	11	subj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+10	y	y	PRON	_	_	11	mod	_	gov2=0|gov2_score=0|gov_score=28|rel2=comp:obl|rel2_score=13.33|rel_score=15.27|tag_score=28.6
+11	ait	avoir	VERB	_	_	8	comp:obj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag2_score=1.83|tag_score=26.77
+12	une	un	DET	_	_	13	det	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+13	personne	personne	NOUN	_	_	11	comp:obj	_	gov2=0|gov2_score=0|gov_score=28|rel2=subj|rel2_score=1.83|rel_score=26.77|tag_score=28.6
+14	qui	qui	PRON	_	_	15	subj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+15	passe	passer	VERB	_	_	13	mod@relcl	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+16	la	le	DET	_	_	18	det	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+17	première	premier	ADJ	_	_	18	mod	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+18	porte	porte	NOUN	_	_	15	comp:obj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+19	,	_	PUNCT	_	_	22	punct	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+20	et	et	CCONJ	_	_	22	cc	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+21	qui	qui	PRON	_	_	22	subj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+22	aille	aller	VERB	_	_	15	conj:coord	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+23	à	à	ADP	_	_	22	comp:obl	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+24	la	le	DET	_	_	25	det	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+25	porte	porte	NOUN	_	_	23	comp:obj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+26	de	de	ADP	_	_	25	mod	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+27	dehors	dehors	ADV	_	_	26	comp:obj	_	gov2=0|gov2_score=0|gov_score=28|highlight=pink|rel_score=28.6|tag2_score=13.33|tag_score=15.27
+28	,	_	PUNCT	_	_	31	punct	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+29	et	et	CCONJ	_	_	31	cc	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+30	ensuite	ensuite	ADV	_	_	31	mod	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+31	qu'	que	SCONJ	_	_	22	conj:coord	_	gov2=8|gov2_score=13.33|gov_score=13|highlight=pink|rel_score=26.77|SpaceAfter=No|tag_score=28.6
+32	il	il	PRON	_	_	33	subj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+33	fasse	_	AUX	_	_	31	comp:obj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag2_score=5.22|tag_score=23.38
+34	rentrer	rentrer	VERB	_	_	33	comp:obj@x	_	gov2=0|gov2_score=0|gov_score=28|rel2=comp:aux@caus|rel2_score=13.33|rel_score=15.27|tag_score=28.6
+35	les	le	DET	_	_	36	det	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+36	autres	autre	PRON	_	_	34	comp:obj	_	gov2=33|gov2_score=13.33|gov_score=15|rel_score=28.6|tag_score=28.6
+37	qui	qui	PRON	_	_	38	subj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+38	sont	être	AUX	_	_	36	mod@relcl	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+39	restés	rester	VERB	_	_	38	comp:aux	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+40	dehors	dehors	ADV	_	_	39	mod	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+41	,	_	PUNCT	_	_	49	punct	_	gov2=43|gov2_score=13.33|gov_score=15|rel_score=28.6|tag_score=28.6
+42	tu	tu	PRON	_	_	43	subj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+43	vois	voir	VERB	_	_	49	discourse	_	gov2=63|gov2_score=13.33|gov_score=15|rel_score=15.27|tag_score=28.6
+44	,	_	PUNCT	_	_	43	punct	_	gov2=49|gov2_score=13.33|gov_score=15|rel_score=28.6|tag_score=28.6
+45	donc	donc	ADV	_	_	49	cc	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+46	genre	genre	INTJ	_	_	49	discourse	_	gov2=0|gov2_score=0|gov_score=28|rel2=comp:obl|rel2_score=8.22|rel_score=20.38|tag2_score=8.22|tag_score=20.38
+47	tes	son	DET	_	_	49	det	_	gov2=48|gov2_score=1.83|gov_score=26|rel_score=28.6|tag_score=28.6
+48	douze	douze	NUM	_	_	49	mod	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+49	potes	pote	NOUN	_	_	36	conj:coord	_	gov2=63|gov2_score=1.83|gov_score=26|rel_score=26.77|tag_score=28.6
+50	qui	qui	PRON	_	_	51	subj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+51	sont	être	AUX	_	_	49	mod@relcl	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+52	venus	venir	VERB	_	_	51	comp:aux	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+53	et	et	CCONJ	_	_	58	cc	_	gov2=54|gov2_score=13.33|gov_score=15|rel_score=28.6|tag_score=28.6
+54	qui	qui	PRON	_	_	58	subj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag2_score=1.83|tag_score=26.77
+55	euh	euh	INTJ	_	_	57	discourse	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+56	,	_	PUNCT	_	_	55	punct	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+57	qui	qui	PRON	_	_	54	conj:dicto	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+58	ont	avoir	AUX	_	_	51	conj:coord	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+59	pas	pas	ADV	_	_	58	mod	_	gov2=60|gov2_score=13.33|gov_score=15|rel_score=28.6|tag_score=28.6
+60	payé	payer	VERB	_	_	58	comp:aux	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag2_score=8.22|tag_score=20.38
+61	leur	son	DET	_	_	62	det	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+62	ticket	ticket	NOUN	_	_	60	comp:obj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+63	.	_	PUNCT	_	_	7	punct	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.6|tag_score=28.6
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_19
+# text = et euh hum le , euh le truc c' est que au début euh , au début on savait pas où aller
+# timestamp = 1590507647.446286
+1	et	et	CCONJ	_	_	10	cc	_	gov2=0|gov2_score=0|gov_score=81|rel2=discourse|rel2_score=7.28|rel_score=74.66|tag_score=81.94
+2	euh	euh	INTJ	_	_	1	discourse	_	gov2=10|gov2_score=8.53|gov_score=65|rel_score=81.94|tag_score=81.94
+3	hum	hum	INTJ	_	_	1	discourse	_	gov2=2|gov2_score=12.83|gov_score=60|rel_score=81.94|tag_score=81.94
+4	le	le	DET	_	_	8	det	_	gov2=0|gov2_score=0|gov_score=81|rel_score=81.94|tag_score=81.94
+5	,	_	PUNCT	_	_	7	punct	_	gov2=0|gov2_score=0|gov_score=81|rel_score=81.94|tag_score=81.94
+6	euh	euh	INTJ	_	_	7	discourse	_	gov2=0|gov2_score=0|gov_score=81|rel_score=81.94|tag_score=81.94
+7	le	le	DET	_	_	4	conj:dicto	_	gov2=0|gov2_score=0|gov_score=81|rel_score=81.94|tag_score=81.94
+8	truc	truc	NOUN	_	_	10	dislocated	_	gov2=9|gov2_score=8.53|gov_score=73|rel2=subj|rel2_score=8.5|rel_score=73.44|tag_score=81.94
+9	c'	ce	PRON	_	_	10	subj	_	gov2=0|gov2_score=0|gov_score=81|rel_score=81.94|SpaceAfter=No|tag_score=81.94
+10	est	être	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=81|rel_score=81.94|tag2_score=7.28|tag_score=74.66
+11	que	que	SCONJ	_	_	10	comp:obj	_	gov2=0|gov2_score=0|gov_score=81|rel2=comp:pred|rel2_score=16.89|rel_score=65.05|tag_score=81.94
+12	au	à+le	ADP	_	_	19	mod	_	gov2=0|gov2_score=0|gov_score=81|rel_score=81.94|tag_score=81.94
+13	début	début	NOUN	_	_	12	comp:obj	_	gov2=0|gov2_score=0|gov_score=81|rel_score=81.94|tag_score=81.94
+14	euh	euh	INTJ	_	_	12	discourse	_	gov2=17|gov2_score=16.89|gov_score=57|rel_score=81.94|tag_score=81.94
+15	,	_	PUNCT	_	_	16	punct	_	gov2=0|gov2_score=0|gov_score=81|rel_score=81.94|tag_score=81.94
+16	au	à+le	ADP	_	_	12	conj:dicto	_	gov2=0|gov2_score=0|gov_score=81|rel_score=81.94|tag_score=81.94
+17	début	début	NOUN	_	_	16	comp:obj	_	gov2=13|gov2_score=8.53|gov_score=73|rel2=conj:dicto|rel2_score=8.53|rel_score=73.41|tag_score=81.94
+18	on	on	PRON	_	_	19	subj	_	gov2=0|gov2_score=0|gov_score=81|rel_score=81.94|tag_score=81.94
+19	savait	savoir	VERB	_	_	11	comp:obj	_	gov2=0|gov2_score=0|gov_score=81|rel_score=81.94|tag_score=81.94
+20	pas	pas	ADV	_	_	19	mod	_	gov2=0|gov2_score=0|gov_score=81|rel_score=81.94|tag_score=81.94
+21	où	où	PRON	_	_	22	comp:obl	_	gov2=0|gov2_score=0|gov_score=81|rel2=comp:obj|rel2_score=12.83|rel_score=69.11|tag_score=81.94
+22	aller	aller	VERB	_	_	19	comp:obj@x	_	gov2=0|gov2_score=0|gov_score=81|rel_score=81.94|tag_score=81.94
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_20
+# text = on galérait à se trouver on appelle on dit ouais je suis euh en face du euh , du machin
+# timestamp = 1590507647.446289
+1	on	on	PRON	_	_	2	subj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.03|tag_score=41.03
+2	galérait	galérer	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=41|rel_score=41.03|tag_score=41.03
+3	à	à	ADP	_	_	2	comp:obl@x	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.03|tag_score=41.03
+4	se	se	PRON	_	_	5	comp:obj	_	gov2=0|gov2_score=0|gov_score=41|rel2=comp:obl|rel2_score=6.81|rel_score=34.22|tag_score=41.03
+5	trouver	trouver	VERB	_	_	3	comp:obj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.03|tag_score=41.03
+6	on	on	PRON	_	_	7	subj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.03|tag_score=41.03
+7	appelle	appeler	VERB	_	_	2	conj:coord	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.03|tag_score=41.03
+8	on	on	PRON	_	_	9	subj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.03|tag_score=41.03
+9	dit	dire	VERB	_	_	7	conj:coord	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.03|tag_score=41.03
+10	ouais	ouais	INTJ	_	_	12	discourse	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.03|tag_score=41.03
+11	je	je	PRON	_	_	12	subj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.03|tag_score=41.03
+12	suis	être	AUX	_	_	9	comp:obj	_	gov2=2|gov2_score=8.53|gov_score=32|rel2=parataxis:obj|rel2_score=8.53|rel_score=32.5|tag_score=41.03
+13	euh	euh	INTJ	_	_	14	discourse	_	gov2=12|gov2_score=8.53|gov_score=32|rel_score=41.03|tag_score=41.03
+14	en	en	ADP	_	_	12	comp:pred	_	gov2=0|gov2_score=0|gov_score=41|rel2=comp:obl|rel2_score=8.53|rel_score=32.5|tag_score=41.03
+15	face	face	NOUN	_	_	14	comp:obj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.03|tag_score=41.03
+16	du	de+le	ADP	_	_	15	mod	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.03|tag_score=41.03
+17	euh	euh	INTJ	_	_	19	discourse	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.03|tag2_score=6.81|tag_score=34.22
+18	,	_	PUNCT	_	_	17	punct	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.03|tag_score=41.03
+19	du	de+le	ADP	_	_	16	conj:dicto	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.03|tag_score=41.03
+20	machin	machin	NOUN	_	_	19	comp:obj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.03|tag_score=41.03
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_21
+# text = et après c' est , du coup tu fais rentrer les gens .
+# timestamp = 1590507647.446292
+1	et	et	CCONJ	_	_	4	cc	_	gov2=0|gov2_score=0|gov_score=42|rel_score=42|tag_score=42
+2	après	après	ADV	_	_	4	mod	_	gov2=0|gov2_score=0|gov_score=42|rel2=discourse|rel2_score=4|rel_score=38|tag2_score=16.89|tag_score=25.11
+3	c'	ce	PRON	_	_	4	subj	_	gov2=0|gov2_score=0|gov_score=42|rel_score=42|SpaceAfter=No|tag_score=42
+4	est	être	AUX	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=42|rel_score=42|tag2_score=16.89|tag_score=25.11
+5	,	_	PUNCT	_	_	9	punct	_	gov2=0|gov2_score=0|gov_score=42|rel_score=42|tag_score=42
+6	du	de+le	ADP	_	_	9	discourse	_	gov2=0|gov2_score=0|gov_score=42|rel_score=42|tag_score=42
+7	coup	coup	NOUN	_	_	6	comp:obj	_	gov2=0|gov2_score=0|gov_score=42|rel_score=42|tag_score=42
+8	tu	tu	PRON	_	_	9	subj	_	gov2=0|gov2_score=0|gov_score=42|rel_score=42|tag_score=42
+9	fais	faire	AUX	_	_	4	conj:coord	_	gov2=0|gov2_score=0|gov_score=42|rel2=conj:dicto|rel2_score=8.83|rel_score=16.89|tag2_score=7.78|tag_score=34.22
+10	rentrer	rentrer	VERB	_	_	9	comp:obj@x	_	gov2=0|gov2_score=0|gov_score=42|rel2=comp:aux@caus|rel2_score=8.5|rel_score=33.5|tag_score=42
+11	les	le	DET	_	_	12	det	_	gov2=0|gov2_score=0|gov_score=42|rel_score=42|tag2_score=4.83|tag_score=37.17
+12	gens	gens	NOUN	_	_	10	comp:obj	_	gov2=0|gov2_score=0|gov_score=42|rel2=comp:obj@agent|rel2_score=8.5|rel_score=33.5|tag_score=42
+13	.	_	PUNCT	_	_	4	punct	_	gov2=0|gov2_score=0|gov_score=42|rel_score=42|tag_score=42
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_22
+# text = et sauf que au du coup au début on était en galère ,
+# timestamp = 1590507647.446295
+1	et	et	CCONJ	_	_	2	cc	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.53|tag_score=59.53
+2	sauf	sauf	ADP	_	_	0	root	_	gov2=10|gov2_score=10.89|gov_score=48|rel2=mod|rel2_score=10.89|rel_score=48.64|tag2_score=9.97|tag_score=49.56
+3	que	que	SCONJ	_	_	2	unk@fixed	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.53|tag_score=59.53
+4	au	à+le	ADP	_	_	10	mod	_	gov2=3|gov2_score=10.89|gov_score=48|rel2=comp:obj|rel2_score=10.89|rel_score=48.64|tag_score=59.53
+5	du	de+le	ADP	_	_	7	discourse	_	gov2=4|gov2_score=21.83|gov_score=37|rel_score=59.53|tag_score=59.53
+6	coup	coup	NOUN	_	_	5	comp:obj	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.53|tag_score=59.53
+7	au	à+le	ADP	_	_	4	conj:dicto	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.53|tag_score=59.53
+8	début	début	NOUN	_	_	7	comp:obj	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.53|tag_score=59.53
+9	on	on	PRON	_	_	10	subj	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.53|tag_score=59.53
+10	était	être	AUX	_	_	2	comp:obj	_	gov2=0|gov2_score=10.89|gov_score=48|rel2=root|rel2_score=10.89|rel_score=48.64|tag2_score=9.97|tag_score=49.56
+11	en	en	ADP	_	_	10	comp:pred	_	gov2=0|gov2_score=0|gov_score=59|rel2=mod|rel2_score=9.97|rel_score=49.56|tag_score=59.53
+12	galère	galère	NOUN	_	_	11	comp:obj	_	gov2=0|gov2_score=0|gov_score=59|rel_score=59.53|tag_score=59.53
+13	,	_	PUNCT	_	_	2	punct	_	gov2=10|gov2_score=10.89|gov_score=38|rel_score=59.53|tag_score=59.53
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_23
+# text = et en fait , on regardait euh , dans quelle salle était le film ,
+# timestamp = 1590507647.446298
+1	et	et	CCONJ	_	_	6	cc	_	gov2=0|gov2_score=0|gov_score=86|rel_score=86.65|tag_score=86.65
+2	en	en	ADP	_	_	6	mod	_	gov2=1|gov2_score=39.52|gov_score=47|rel2=discourse|rel2_score=39.52|rel_score=41.38|tag_score=86.65
+3	fait	faire	NOUN	_	_	2	comp:obj	_	gov2=0|gov2_score=0|gov_score=86|rel_score=86.65|tag_score=86.65
+4	,	_	PUNCT	_	_	1	punct	_	gov2=2|gov2_score=26.94|gov_score=45|rel_score=86.65|tag_score=86.65
+5	on	on	PRON	_	_	6	subj	_	gov2=0|gov2_score=0|gov_score=86|rel_score=86.65|tag_score=86.65
+6	regardait	regarder	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=86|rel_score=86.65|tag_score=86.65
+7	euh	euh	INTJ	_	_	12	discourse	_	gov2=15|gov2_score=14.44|gov_score=59|rel_score=72.21|tag_score=86.65
+8	,	_	PUNCT	_	_	7	punct	_	gov2=0|gov2_score=0|gov_score=86|rel_score=86.65|tag_score=86.65
+9	dans	dans	ADP	_	_	12	comp:pred	_	gov2=6|gov2_score=14.44|gov_score=66|rel2=comp:obl|rel2_score=30.13|rel_score=56.52|tag2_score=9.94|tag_score=76.71
+10	quelle	quel	DET	_	_	11	det	_	gov2=0|gov2_score=0|gov_score=86|rel2=mod|rel2_score=5.75|rel_score=80.9|tag2_score=5.75|tag_score=80.9
+11	salle	_	NOUN	_	_	9	comp:obj	_	gov2=6|gov2_score=9.94|gov_score=76|rel_score=86.65|tag_score=86.65
+12	était	être	AUX	_	_	6	comp:obj	_	gov2=15|gov2_score=24.38|gov_score=62|rel_score=62.27|tag2_score=17.72|tag_score=68.93
+13	le	le	DET	_	_	14	det	_	gov2=0|gov2_score=0|gov_score=86|rel_score=86.65|tag2_score=7.28|tag_score=79.37
+14	film	film	NOUN	_	_	12	subj	_	gov2=0|gov2_score=0|gov_score=86|rel2=comp:pred|rel2_score=14.44|rel_score=72.21|tag_score=86.65
+15	,	_	PUNCT	_	_	6	punct	_	gov2=0|gov2_score=7.28|gov_score=79|rel_score=86.65|tag_score=86.65
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_24
+# text = et genre du coup les , les , les mecs attendaient pile devant la porte , tu vois .
+# timestamp = 1590507647.4463
+1	et	et	CCONJ	_	_	11	cc	_	gov2=0|gov2_score=0|gov_score=39|rel_score=39.92|tag_score=39.92
+2	genre	genre	INTJ	_	_	1	discourse	_	gov2=11|gov2_score=15.92|gov_score=24|rel_score=39.92|tag2_score=15.92|tag_score=22.17
+3	du	de+le	ADP	_	_	1	discourse	_	gov2=11|gov2_score=15.92|gov_score=24|rel_score=39.92|tag2_score=10.31|tag_score=29.61
+4	coup	coup	NOUN	_	_	3	comp:obj	_	gov2=0|gov2_score=0|gov_score=39|rel_score=39.92|tag2_score=11.86|tag_score=28.06
+5	les	le	DET	_	_	10	det	_	gov2=0|gov2_score=0|gov_score=39|rel_score=39.92|tag2_score=1.83|tag_score=38.09
+6	,	_	PUNCT	_	_	7	punct	_	gov2=0|gov2_score=0|gov_score=39|rel_score=39.92|tag_score=39.92
+7	les	le	DET	_	_	5	conj:dicto	_	gov2=0|gov2_score=0|gov_score=39|rel_score=39.92|tag_score=39.92
+8	,	_	PUNCT	_	_	9	punct	_	gov2=0|gov2_score=0|gov_score=39|rel_score=39.92|tag_score=39.92
+9	les	le	DET	_	_	7	conj:dicto	_	gov2=0|gov2_score=0|gov_score=39|rel_score=39.92|tag_score=39.92
+10	mecs	mec	NOUN	_	_	11	subj	_	gov2=0|gov2_score=0|gov_score=39|rel_score=39.92|tag2_score=1.83|tag_score=38.09
+11	attendaient	attendre	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=39|rel_score=39.92|tag_score=39.92
+12	pile	pile	ADV	_	_	13	mod	_	gov2=0|gov2_score=0|gov_score=39|rel_score=39.92|tag2_score=1.83|tag_score=38.09
+13	devant	devant	ADP	_	_	11	comp:obl	_	gov2=0|gov2_score=0|gov_score=39|rel2=mod|rel2_score=13.69|rel_score=26.23|tag2_score=13.69|tag_score=26.23
+14	la	le	DET	_	_	15	det	_	gov2=0|gov2_score=0|gov_score=39|rel_score=39.92|tag_score=39.92
+15	porte	porte	NOUN	_	_	13	comp:obj	_	gov2=0|gov2_score=0|gov_score=39|rel_score=39.92|tag_score=39.92
+16	,	_	PUNCT	_	_	18	punct	_	gov2=0|gov2_score=0|gov_score=39|rel_score=39.92|tag_score=39.92
+17	tu	tu	PRON	_	_	18	det	_	gov2=0|gov2_score=0|gov_score=39|rel2=subj|rel2_score=15.92|rel_score=24|tag_score=39.92
+18	vois	voir	VERB	_	_	11	discourse	_	gov2=0|gov2_score=0|gov_score=39|rel_score=39.92|tag_score=39.92
+19	.	_	PUNCT	_	_	11	punct	_	gov2=0|gov2_score=0|gov_score=39|rel_score=39.92|tag_score=39.92
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_25
+# text = et du coup après ils avaient juste à toquer sur la porte ,
+# timestamp = 1590507647.446303
+1	et	et	CCONJ	_	_	6	cc	_	gov2=0|gov2_score=0|gov_score=21|rel_score=21.59|tag_score=21.59
+2	du	de+le	ADP	_	_	6	discourse	_	gov2=0|gov2_score=0|gov_score=21|rel_score=21.59|tag_score=21.59
+3	coup	coup	NOUN	_	_	2	comp:obj	_	gov2=0|gov2_score=0|gov_score=21|rel_score=21.59|tag_score=21.59
+4	après	après	ADV	_	_	6	mod	_	gov2=0|gov2_score=0|gov_score=21|rel_score=21.59|tag_score=21.59
+5	ils	il	PRON	_	_	6	subj	_	gov2=0|gov2_score=0|gov_score=21|rel_score=21.59|tag_score=21.59
+6	avaient	avoir	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=21|rel_score=21.59|tag_score=21.59
+7	juste	juste	ADV	_	_	6	mod	_	gov2=0|gov2_score=0|gov_score=21|rel_score=21.59|tag_score=21.59
+8	à	à	ADP	_	_	6	comp:obl@x	_	gov2=0|gov2_score=0|gov_score=21|rel_score=21.59|tag_score=21.59
+9	toquer	toquer	VERB	_	_	8	comp:obj	_	gov2=0|gov2_score=0|gov_score=21|rel_score=21.59|tag_score=21.59
+10	sur	sur	ADP	_	_	9	comp:obl	_	gov2=0|gov2_score=0|gov_score=21|rel_score=21.59|tag_score=21.59
+11	la	le	DET	_	_	12	det	_	gov2=0|gov2_score=0|gov_score=21|rel_score=21.59|tag_score=21.59
+12	porte	porte	NOUN	_	_	10	comp:obj	_	gov2=0|gov2_score=0|gov_score=21|rel_score=21.59|tag_score=21.59
+13	,	_	PUNCT	_	_	0	root	_	gov2=13|gov2_score=8.53|gov_score=13|rel_score=13.06|tag_score=21.59
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_26
+# text = et puis du coup , et le moment le plus drôle c' est quand t' as , t' as , t' as du coup quinze personnes qui débarquent par l' intérieur de la par euh , par le la sortie , alors que t' as déjà les gens qui sont installés dans la salle .
+# timestamp = 1590507647.446306
+1	et	et	CCONJ	_	_	13	cc	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+2	puis	puis	ADV	_	_	1	unk@fixed	_	gov2=13|gov2_score=12.31|gov_score=36|rel2=mod|rel2_score=12.31|rel_score=36.16|tag_score=48.47
+3	du	de+le	ADP	_	_	6	discourse	_	gov2=1|gov2_score=14.83|gov_score=33|highlight=pink|rel_score=48.47|tag2_score=20.92|tag_score=22.33
+4	coup	coup	NOUN	_	_	3	comp:obj	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+5	,	_	PUNCT	_	_	3	punct	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+6	et	et	CCONJ	_	_	1	conj:dicto	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+7	le	le	DET	_	_	8	det	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+8	moment	moment	NOUN	_	_	13	dislocated	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+9	le	le	DET	_	_	11	det	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+10	plus	plus	ADV	_	_	11	mod	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+11	drôle	drôle	ADJ	_	_	8	mod	_	gov2=0|gov2_score=0|gov_score=48|rel2=comp:obj|rel2_score=5.22|rel_score=43.25|tag_score=48.47
+12	c'	ce	PRON	_	_	13	subj	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|SpaceAfter=No|tag_score=48.47
+13	est	être	AUX	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=48|rel_score=48.47|tag2_score=7.5|tag_score=40.97
+14	quand	quand	SCONJ	_	_	13	comp:pred	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag2_score=5.22|tag_score=43.25
+15	t'	te	PRON	_	_	16	subj	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|SpaceAfter=No|tag_score=48.47
+16	as	avoir	VERB	_	_	14	comp:obj	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag2_score=12.31|tag_score=36.16
+17	,	_	PUNCT	_	_	19	punct	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+18	t'	te	PRON	_	_	19	subj	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|SpaceAfter=No|tag_score=48.47
+19	as	avoir	VERB	_	_	16	conj:dicto	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag2_score=12.31|tag_score=36.16
+20	,	_	PUNCT	_	_	22	punct	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+21	t'	te	PRON	_	_	22	subj	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|SpaceAfter=No|tag_score=48.47
+22	as	avoir	VERB	_	_	19	conj:dicto	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag2_score=12.31|tag_score=36.16
+23	du	de+le	ADP	_	_	22	discourse	_	gov2=26|gov2_score=21.33|gov_score=27|rel_score=48.47|tag_score=48.47
+24	coup	coup	NOUN	_	_	23	comp:obj	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+25	quinze	quinze	NUM	_	_	26	det	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+26	personnes	personne	NOUN	_	_	22	comp:obj	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+27	qui	qui	PRON	_	_	28	subj	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+28	débarquent	débarquer	VERB	_	_	26	mod@relcl	_	gov2=0|gov2_score=0|gov_score=48|rel2=mod|rel2_score=12.31|rel_score=36.16|tag_score=48.47
+29	par	par	ADP	_	_	28	comp:obl	_	gov2=0|gov2_score=0|gov_score=48|rel2=mod|rel2_score=7.5|rel_score=40.97|tag_score=48.47
+30	l'	le	DET	_	_	31	det	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|SpaceAfter=No|tag_score=48.47
+31	intérieur	intérieur	NOUN	_	_	29	comp:obj	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+32	de	de	ADP	_	_	31	mod	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+33	la	le	DET	_	_	32	comp:obj	_	gov2=40|gov2_score=12.31|gov_score=36|rel2=det|rel2_score=12.31|rel_score=36.16|tag_score=48.47
+34	par	par	ADP	_	_	29	conj:dicto	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+35	euh	euh	INTJ	_	_	37	discourse	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag2_score=7.5|tag_score=37.19
+36	,	_	PUNCT	_	_	35	punct	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+37	par	par	ADP	_	_	34	conj:dicto	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+38	le	le	DET	_	_	40	det	_	gov2=55|gov2_score=12.31|gov_score=32|rel2=conj:dicto|rel2_score=3.78|rel_score=32.38|tag_score=48.47
+39	la	le	DET	_	_	38	conj:dicto	_	gov2=40|gov2_score=3.78|gov_score=44|rel2=det|rel2_score=3.78|rel_score=44.69|tag_score=48.47
+40	sortie	sortie	NOUN	_	_	37	comp:obj	_	gov2=32|gov2_score=12.31|gov_score=36|rel_score=48.47|tag_score=48.47
+41	,	_	PUNCT	_	_	42	punct	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+42	alors	alors	ADV	_	_	28	mod	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+43	que	que	SCONJ	_	_	42	unk@fixed	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+44	t'	te	PRON	_	_	45	subj	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|SpaceAfter=No|tag_score=48.47
+45	as	avoir	AUX	_	_	42	comp:obj	_	gov2=43|gov2_score=14.83|gov_score=33|rel_score=48.47|tag2_score=7.5|tag_score=40.97
+46	déjà	déjà	ADV	_	_	45	mod	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+47	les	le	DET	_	_	48	det	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+48	gens	gens	NOUN	_	_	45	comp:obj	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+49	qui	qui	PRON	_	_	50	subj	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+50	sont	être	AUX	_	_	48	mod@relcl	_	gov2=0|gov2_score=0|gov_score=48|rel2=mod|rel2_score=12.31|rel_score=36.16|tag_score=48.47
+51	installés	installer	VERB	_	_	50	comp:aux@pass	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+52	dans	dans	ADP	_	_	51	mod	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+53	la	le	DET	_	_	54	det	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+54	salle	_	NOUN	_	_	52	comp:obj	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+55	.	_	PUNCT	_	_	13	punct	_	gov2=0|gov2_score=0|gov_score=48|rel_score=48.47|tag_score=48.47
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_27
+# text = et du coup t' essayes de , de euh de garder un , un , un visage très sérieux , tu vois , de pas , de pas faire le con , de pas être trop bruyant parce que tu sais que les la moitié des gens dans la salle te détestent déjà .
+# timestamp = 1590507647.446309
+1	et	et	CCONJ	_	_	5	cc	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+2	du	de+le	ADP	_	_	5	discourse	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+3	coup	coup	NOUN	_	_	2	comp:obj	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+4	t'	te	PRON	_	_	5	subj	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|SpaceAfter=No|tag_score=115.75
+5	essayes	essaye	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+6	de	de	ADP	_	_	5	comp:obj@x	_	gov2=0|gov2_score=0|gov_score=115|rel2=comp:obl@x|rel2_score=42.92|rel_score=58.39|tag_score=115.75
+7	,	_	PUNCT	_	_	8	punct	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+8	de	de	ADP	_	_	6	conj:dicto	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+9	euh	euh	INTJ	_	_	10	discourse	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+10	de	de	ADP	_	_	8	conj:dicto	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+11	garder	garder	VERB	_	_	10	comp:obj	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag2_score=46.49|tag_score=69.26
+12	un	un	DET	_	_	17	det	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+13	,	_	PUNCT	_	_	14	punct	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+14	un	un	DET	_	_	12	conj:dicto	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+15	,	_	PUNCT	_	_	16	punct	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+16	un	un	DET	_	_	14	conj:dicto	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+17	visage	_	NOUN	_	_	11	comp:obj	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+18	très	très	ADV	_	_	19	mod	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+19	sérieux	sérieux	ADJ	_	_	17	mod	_	gov2=0|gov2_score=0|gov_score=115|rel2=comp:pred|rel2_score=7.94|rel_score=107.81|tag2_score=0|tag_score=115.75
+20	,	_	PUNCT	_	_	24	punct	_	gov2=22|gov2_score=18.56|gov_score=97|rel_score=115.75|tag_score=115.75
+21	tu	tu	PRON	_	_	22	subj	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+22	vois	voir	VERB	_	_	24	discourse	_	gov2=5|gov2_score=18.56|gov_score=97|rel_score=115.75|tag_score=115.75
+23	,	_	PUNCT	_	_	22	punct	_	gov2=24|gov2_score=18.56|gov_score=97|rel_score=115.75|tag_score=115.75
+24	de	de	ADP	_	_	10	conj:coord	_	gov2=0|gov2_score=0|gov_score=115|rel2=conj:dicto|rel2_score=13.06|rel_score=102.69|tag_score=115.75
+25	pas	pas	ADV	_	_	24	unk@scrap	_	gov2=29|gov2_score=7.94|gov_score=107|highlight=pink|rel2=comp:obj|rel2_score=37.77|rel_score=38.42|tag_score=115.75
+26	,	_	PUNCT	_	_	27	punct	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+27	de	de	ADP	_	_	24	conj:dicto	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+28	pas	pas	ADV	_	_	29	mod	_	gov2=25|gov2_score=7.94|gov_score=105|rel2=conj:dicto|rel2_score=7.94|rel_score=107.81|tag_score=115.75
+29	faire	faire	VERB	_	_	27	comp:obj	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+30	le	le	DET	_	_	31	det	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+31	con	con	NOUN	_	_	29	comp:obj	_	gov2=0|gov2_score=0|gov_score=115|rel2=comp:aux|rel2_score=7.94|rel_score=107.81|tag_score=115.75
+32	,	_	PUNCT	_	_	33	punct	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+33	de	de	ADP	_	_	27	conj:dicto	_	gov2=54|gov2_score=7.94|gov_score=107|rel2=conj:coord|rel2_score=42.58|rel_score=65.23|tag_score=115.75
+34	pas	pas	ADV	_	_	35	mod	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+35	être	être	AUX	_	_	33	comp:obj	_	gov2=0|gov2_score=0|gov_score=115|rel2=comp:obj@x|rel2_score=13.06|rel_score=102.69|tag2_score=14.06|tag_score=101.69
+36	trop	trop	ADV	_	_	37	mod	_	gov2=35|gov2_score=9.77|gov_score=105|rel_score=115.75|tag_score=115.75
+37	bruyant	bruir	ADJ	_	_	35	comp:pred	_	gov2=0|gov2_score=0|gov_score=115|rel2=mod|rel2_score=14.06|rel_score=101.69|tag_score=115.75
+38	parce	parce	SCONJ	_	_	35	mod	_	gov2=5|gov2_score=18.56|gov_score=97|rel_score=115.75|tag_score=115.75
+39	que	que	SCONJ	_	_	38	unk@fixed	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+40	tu	tu	PRON	_	_	41	subj	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+41	sais	savoir	VERB	_	_	38	comp:obj	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+42	que	que	SCONJ	_	_	41	comp:obj	_	gov2=0|gov2_score=0|gov_score=115|rel2=comp:obl|rel2_score=14.44|rel_score=101.31|tag_score=115.75
+43	les	le	DET	_	_	45	det	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+44	la	le	DET	_	_	43	conj:dicto	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+45	moitié	moitié	NOUN	_	_	52	subj	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+46	des	de+le	ADP	_	_	45	mod	_	gov2=0|gov2_score=0|gov_score=115|rel2=comp:obl|rel2_score=14.06|rel_score=101.69|tag_score=115.75
+47	gens	gens	NOUN	_	_	46	comp:obj	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+48	dans	dans	ADP	_	_	47	mod	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+49	la	le	DET	_	_	50	det	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+50	salle	_	NOUN	_	_	48	comp:obj	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+51	te	te	PRON	_	_	52	comp:obj	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+52	détestent	détester	VERB	_	_	42	comp:obj	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+53	déjà	déjà	ADV	_	_	52	mod	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+54	.	_	PUNCT	_	_	5	punct	_	gov2=0|gov2_score=0|gov_score=115|rel_score=115.75|tag_score=115.75
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_28
+# text = il y en a quelques uns que ça fait marrer ,
+# timestamp = 1590507647.446312
+1	il	il	PRON	_	_	4	subj@expl	_	gov2=0|gov2_score=0|gov_score=19|rel_score=19.27|tag_score=19.27
+2	y	y	PRON	_	_	4	comp:obl	_	gov2=0|gov2_score=0|gov_score=19|rel2=mod|rel2_score=4.83|rel_score=14.44|tag_score=19.27
+3	en	en	PRON	_	_	4	mod	_	gov2=0|gov2_score=0|gov_score=19|rel_score=19.27|tag2_score=4.83|tag_score=14.44
+4	a	avoir	AUX	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=19|rel_score=19.27|tag2_score=4.83|tag_score=14.44
+5	quelques	quelque	DET	_	_	6	det	_	gov2=0|gov2_score=0|gov_score=19|rel2=mod|rel2_score=4.83|rel_score=14.44|tag2_score=4.83|tag_score=14.44
+6	uns	un	PRON	_	_	4	comp:obj	_	gov2=11|gov2_score=4.83|gov_score=14|rel_score=14.44|tag_score=19.27
+7	que	que	PRON	_	_	9	comp:obj	_	gov2=4|gov2_score=4.83|gov_score=14|rel_score=19.27|tag_score=19.27
+8	ça	ça	PRON	_	_	9	subj	_	gov2=0|gov2_score=0|gov_score=19|rel2=comp:obj|rel2_score=4.83|rel_score=14.44|tag_score=19.27
+9	fait	faire	VERB	_	_	6	mod@relcl	_	gov2=0|gov2_score=0|gov_score=19|rel2=mod|rel2_score=4.83|rel_score=14.44|tag_score=19.27
+10	marrer	marrer	VERB	_	_	9	comp:obj	_	gov2=0|gov2_score=0|gov_score=19|rel_score=19.27|tag_score=19.27
+11	,	_	PUNCT	_	_	4	punct	_	gov2=0|gov2_score=0|gov_score=19|rel_score=19.27|tag_score=19.27
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_29
+# text = et du coup bah tu vas prendre ta place euh ,
+# timestamp = 1590507647.446315
+1	et	et	CCONJ	_	_	6	cc	_	gov2=0|gov2_score=0|gov_score=25|rel_score=25.7|tag_score=25.7
+2	du	de+le	ADP	_	_	1	discourse	_	gov2=0|gov2_score=0|gov_score=25|rel2=comp:obl|rel2_score=4|rel_score=21.7|tag_score=25.7
+3	coup	coup	NOUN	_	_	2	comp:obj	_	gov2=0|gov2_score=0|gov_score=25|rel_score=25.7|tag_score=25.7
+4	bah	bah	INTJ	_	_	1	discourse	_	gov2=0|gov2_score=0|gov_score=25|rel_score=25.7|tag_score=25.7
+5	tu	tu	PRON	_	_	6	subj	_	gov2=0|gov2_score=0|gov_score=25|rel_score=25.7|tag2_score=4|tag_score=21.7
+6	vas	aller	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=25|rel_score=25.7|tag_score=25.7
+7	prendre	prendre	VERB	_	_	6	comp:obj@x	_	gov2=0|gov2_score=0|gov_score=25|rel2=comp:obj|rel2_score=4|rel_score=21.7|tag_score=25.7
+8	ta	son	DET	_	_	9	det	_	gov2=0|gov2_score=0|gov_score=25|rel_score=25.7|tag_score=25.7
+9	place	place	NOUN	_	_	7	comp:obj	_	gov2=0|gov2_score=0|gov_score=25|rel_score=25.7|tag_score=25.7
+10	euh	euh	INTJ	_	_	0	root	_	gov2=6|gov2_score=11.78|gov_score=13|rel_score=25.7|tag2_score=7.78|tag_score=17.92
+11	,	_	PUNCT	_	_	10	punct	_	gov2=6|gov2_score=11.78|gov_score=13|rel_score=25.7|tag_score=25.7
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_30
+# text = Du coup tu , et du coup tu t' asseois avec tes , tes quinze potes au premier rang ,
+# timestamp = 1590507647.446318
+1	Du	de+le	ADP	_	_	10	discourse	_	gov2=0|gov2_score=0|gov_score=63|rel_score=63.97|tag_score=63.97
+2	coup	coup	NOUN	_	_	1	comp:obj	_	gov2=0|gov2_score=0|gov_score=63|rel_score=63.97|tag_score=63.97
+3	tu	tu	PRON	_	_	1	unk@scrap	_	gov2=10|gov2_score=13.97|gov_score=40|rel2=subj|rel2_score=13.97|rel_score=40.06|tag_score=63.97
+4	,	_	PUNCT	_	_	3	punct	_	gov2=1|gov2_score=23.66|gov_score=27|rel_score=63.97|tag_score=63.97
+5	et	et	CCONJ	_	_	10	cc	_	gov2=0|gov2_score=0|gov_score=63|rel_score=63.97|tag_score=63.97
+6	du	de+le	ADP	_	_	1	conj:dicto	_	gov2=0|gov2_score=0|gov_score=63|rel_score=63.97|tag_score=63.97
+7	coup	coup	NOUN	_	_	6	comp:obj	_	gov2=0|gov2_score=0|gov_score=63|rel_score=63.97|tag_score=63.97
+8	tu	tu	PRON	_	_	10	subj	_	gov2=3|gov2_score=13.97|gov_score=50|rel2=conj:dicto|rel2_score=13.97|rel_score=50|tag_score=63.97
+9	t'	te	PRON	_	_	10	comp:obj	_	gov2=0|gov2_score=0|gov_score=63|rel2=comp@fixed|rel2_score=13.97|rel_score=50|SpaceAfter=No|tag_score=63.97
+10	asseois	asseois	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=63|rel_score=63.97|tag_score=63.97
+11	avec	avec	ADP	_	_	10	mod	_	gov2=0|gov2_score=0|gov_score=63|rel_score=63.97|tag_score=63.97
+12	tes	son	DET	_	_	16	det	_	gov2=0|gov2_score=0|gov_score=63|rel_score=63.97|tag_score=63.97
+13	,	_	PUNCT	_	_	14	punct	_	gov2=0|gov2_score=0|gov_score=63|rel_score=63.97|tag_score=63.97
+14	tes	son	DET	_	_	12	conj:dicto	_	gov2=0|gov2_score=0|gov_score=63|rel_score=63.97|tag_score=63.97
+15	quinze	quinze	NUM	_	_	16	det	_	gov2=0|gov2_score=0|gov_score=63|rel2=mod|rel2_score=23.91|rel_score=40.06|tag_score=63.97
+16	potes	pote	NOUN	_	_	11	comp:obj	_	gov2=0|gov2_score=0|gov_score=63|rel_score=63.97|tag_score=63.97
+17	au	à+le	ADP	_	_	10	mod	_	gov2=0|gov2_score=0|gov_score=63|rel_score=63.97|tag_score=63.97
+18	premier	premier	ADJ	_	_	19	mod	_	gov2=0|gov2_score=0|gov_score=63|rel_score=63.97|tag_score=63.97
+19	rang	rang	NOUN	_	_	17	comp:obj	_	gov2=0|gov2_score=0|gov_score=63|rel_score=63.97|tag_score=63.97
+20	,	_	PUNCT	_	_	10	punct	_	gov2=0|gov2_score=0|gov_score=63|rel_score=63.97|tag_score=63.97
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_31
+# text = et du coup il v~ vaut mieux être plus nombreux parce que plus t' es , vu que tu payes vu que peu importe le nombre que t' es tu payes deux tickets , bah il vaut mieux être aussi nombreux que que possible , forcément .
+# timestamp = 1590507647.446321
+1	et	et	CCONJ	_	_	5	cc	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+2	du	de+le	ADP	_	_	5	discourse	_	gov2=1|gov2_score=6.81|gov_score=34|rel_score=41.5|tag_score=41.5
+3	coup	coup	NOUN	_	_	2	comp:obj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+4	il	il	PRON	_	_	5	subj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+5	v~	v~	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=41|rel_score=41.5|tag2_score=7.28|tag_score=34.22
+6	vaut	valoir	VERB	_	_	5	conj:dicto	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+7	mieux	mieux	ADV	_	_	6	mod	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+8	être	être	AUX	_	_	6	comp:obj@x	_	gov2=7|gov2_score=6.81|gov_score=34|rel_score=41.5|tag2_score=7.28|tag_score=34.22
+9	plus	plus	ADV	_	_	10	mod	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+10	nombreux	nombreux	ADJ	_	_	8	comp:pred	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+11	parce	parce	SCONJ	_	_	8	mod	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag2_score=6.81|tag_score=34.69
+12	que	que	SCONJ	_	_	11	unk@fixed	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+13	plus	plus	ADV	_	_	15	mod	_	gov2=14|gov2_score=7.28|gov_score=34|rel_score=41.5|tag_score=41.5
+14	t'	te	PRON	_	_	15	subj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|SpaceAfter=No|tag_score=41.5
+15	es	être	AUX	_	_	11	comp:obj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag2_score=7.28|tag_score=34.22
+16	,	_	PUNCT	_	_	37	punct	_	gov2=17|gov2_score=14.58|gov_score=26|rel_score=41.5|tag_score=41.5
+17	vu	voir	SCONJ	_	_	37	mod	_	gov2=15|gov2_score=14.58|gov_score=26|highlight=pink|rel2=conj:dicto|rel2_score=14.58|rel_score=26.92|tag2_score=19.64|tag_score=21.86
+18	que	que	SCONJ	_	_	17	comp:obj	_	gov2=0|gov2_score=0|gov_score=41|rel2=unk@fixed|rel2_score=14.58|rel_score=26.92|tag_score=41.5
+19	tu	tu	PRON	_	_	20	subj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+20	payes	paye	VERB	_	_	18	comp:obj	_	gov2=17|gov2_score=14.58|gov_score=26|rel_score=41.5|tag_score=41.5
+21	vu	voir	SCONJ	_	_	17	conj:dicto	_	gov2=0|gov2_score=0|gov_score=41|highlight=pink|rel_score=41.5|tag2_score=19.64|tag_score=21.86
+22	que	que	SCONJ	_	_	21	comp:obj	_	gov2=0|gov2_score=0|gov_score=41|rel2=unk@fixed|rel2_score=14.58|rel_score=26.92|tag_score=41.5
+23	peu	peu	ADV	_	_	24	mod	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+24	importe	importer	VERB	_	_	31	mod	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+25	le	le	DET	_	_	26	det	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+26	nombre	nombre	NOUN	_	_	24	subj	_	gov2=0|gov2_score=0|gov_score=41|rel2=comp:obj|rel2_score=14.58|rel_score=26.92|tag_score=41.5
+27	que	que	PRON	_	_	29	comp:pred	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag2_score=12.83|tag_score=28.67
+28	t'	te	PRON	_	_	29	subj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|SpaceAfter=No|tag_score=41.5
+29	es	être	AUX	_	_	26	mod	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag2_score=7.28|tag_score=34.22
+30	tu	tu	PRON	_	_	31	subj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+31	payes	paye	VERB	_	_	22	comp:obj	_	gov2=21|gov2_score=14.58|gov_score=26|rel_score=41.5|tag_score=41.5
+32	deux	deux	NUM	_	_	33	det	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+33	tickets	ticket	NOUN	_	_	31	comp:obj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+34	,	_	PUNCT	_	_	17	punct	_	gov2=37|gov2_score=14.58|gov_score=26|rel_score=41.5|tag_score=41.5
+35	bah	bah	INTJ	_	_	37	orphan	_	gov2=0|gov2_score=0|gov_score=41|rel2=discourse|rel2_score=20.11|rel_score=21.39|tag_score=41.5
+36	il	il	PRON	_	_	37	subj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+37	vaut	valoir	VERB	_	_	6	conj:dicto	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+38	mieux	mieux	ADV	_	_	37	mod	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+39	être	être	AUX	_	_	37	comp:obj@x	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag2_score=7.28|tag_score=34.22
+40	aussi	aussi	ADV	_	_	41	mod	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+41	nombreux	nombreux	ADJ	_	_	39	comp:pred	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+42	que	que	SCONJ	_	_	40	comp:obj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+43	que	que	SCONJ	_	_	42	conj:dicto	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+44	possible	possible	ADJ	_	_	43	comp:obj	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+45	,	_	PUNCT	_	_	46	punct	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+46	forcément	forcément	ADV	_	_	39	mod	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+47	.	_	PUNCT	_	_	5	punct	_	gov2=0|gov2_score=0|gov_score=41|rel_score=41.5|tag_score=41.5
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_32
+# text = et du coup bah quand t' es à dix et bah tu payes euh , vu que c' est des tickets étudiants tu payes genre euh un euro cinquante par personne , tu vois même pas , parce que ça fait euh douze euros en tout , un truc comme ça douze ou treize euros en tout .
+# timestamp = 1590507647.446324
+1	et	et	CCONJ	_	_	13	cc	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+2	du	de+le	ADP	_	_	13	discourse	_	gov2=1|gov2_score=21.78|gov_score=96|rel_score=117.99|tag_score=117.99
+3	coup	coup	NOUN	_	_	2	comp:obj	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+4	bah	bah	INTJ	_	_	13	discourse	_	gov2=5|gov2_score=11.47|gov_score=106|rel_score=117.99|tag_score=117.99
+5	quand	quand	SCONJ	_	_	13	mod	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+6	t'	te	PRON	_	_	7	subj	_	gov2=0|gov2_score=0|gov_score=117|rel2=comp:obl|rel2_score=6.47|rel_score=111.52|SpaceAfter=No|tag_score=117.99
+7	es	être	AUX	_	_	5	comp:obj	_	gov2=58|gov2_score=17.94|gov_score=100|rel_score=100.05|tag2_score=10.89|tag_score=96.66
+8	à	à	ADP	_	_	7	comp:pred	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+9	dix	dix	NUM	_	_	8	comp:obj	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+10	et	et	CCONJ	_	_	13	cc	_	gov2=1|gov2_score=10.44|gov_score=97|rel2=discourse|rel2_score=10.89|rel_score=96.66|tag2_score=11.47|tag_score=106.52
+11	bah	bah	INTJ	_	_	13	discourse	_	gov2=10|gov2_score=26.84|gov_score=91|rel_score=117.99|tag_score=117.99
+12	tu	tu	PRON	_	_	13	subj	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+13	payes	paye	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+14	euh	euh	INTJ	_	_	24	discourse	_	gov2=13|gov2_score=16.78|gov_score=89|rel_score=117.99|tag_score=117.99
+15	,	_	PUNCT	_	_	14	punct	_	gov2=13|gov2_score=10.31|gov_score=107|rel_score=117.99|tag_score=117.99
+16	vu	voir	VERB	_	_	24	mod	_	gov2=13|gov2_score=10.31|gov_score=101|rel_score=111.52|tag2_score=24.03|tag_score=93.96
+17	que	que	SCONJ	_	_	16	comp:obj	_	gov2=0|gov2_score=0|gov_score=117|rel2=unk@fixed|rel2_score=10.89|rel_score=96.79|tag_score=117.99
+18	c'	ce	PRON	_	_	19	subj	_	gov2=0|gov2_score=0|gov_score=117|rel2=subj@expl|rel2_score=6.47|rel_score=111.52|SpaceAfter=No|tag2_score=4.67|tag_score=113.32
+19	est	être	AUX	_	_	17	comp:obj	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag2_score=20.75|tag_score=97.24
+20	des	de+le	DET	_	_	21	det	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag2_score=6.47|tag_score=111.52
+21	tickets	ticket	NOUN	_	_	19	comp:pred	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+22	étudiants	étudiant	ADJ	_	_	21	mod	_	gov2=0|gov2_score=0|gov_score=117|rel2=unk@fixed|rel2_score=13.72|rel_score=104.27|tag2_score=34.92|tag_score=83.07
+23	tu	tu	PRON	_	_	24	subj	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+24	payes	payer	VERB	_	_	13	conj:dicto	_	gov2=58|gov2_score=6.47|gov_score=111|rel_score=111.52|tag_score=117.99
+25	genre	genre	NOUN	_	_	28	discourse	_	gov2=13|gov2_score=6.47|gov_score=111|rel_score=117.99|tag2_score=23.72|tag_score=94.27
+26	euh	euh	INTJ	_	_	28	discourse	_	gov2=13|gov2_score=6.47|gov_score=111|rel_score=117.99|tag_score=117.99
+27	un	un	DET	_	_	28	det	_	gov2=0|gov2_score=0|gov_score=117|rel2=mod|rel2_score=13.72|rel_score=104.27|tag2_score=55.8|tag_score=62.19
+28	euro	euro	NOUN	_	_	24	comp:obj	_	gov2=34|gov2_score=13.72|gov_score=104|rel2=dislocated|rel2_score=13.72|rel_score=93.83|tag_score=117.99
+29	cinquante	cinquante	NUM	_	_	28	mod	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+30	par	par	ADP	_	_	28	mod	_	gov2=24|gov2_score=11.47|gov_score=104|rel2=det|rel2_score=1.83|rel_score=116.16|tag_score=117.99
+31	personne	personne	NOUN	_	_	30	comp:obj	_	gov2=29|gov2_score=1.83|gov_score=116|rel_score=117.99|tag_score=117.99
+32	,	_	PUNCT	_	_	36	punct	_	gov2=13|gov2_score=27.42|gov_score=55|rel_score=117.99|tag_score=117.99
+33	tu	tu	PRON	_	_	34	subj	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+34	vois	voir	VERB	_	_	0	root	_	gov2=0|gov2_score=27.42|gov_score=0|highlight=pink|rel2=root|rel2_score=27.42|rel_score=36.33|tag_score=117.99
+35	même	même	ADV	_	_	36	mod	_	gov2=34|gov2_score=38.19|gov_score=79|rel2=discourse|rel2_score=1.83|rel_score=116.16|tag_score=117.99
+36	pas	pas	ADV	_	_	34	mod	_	gov2=28|gov2_score=36.33|gov_score=75|rel_score=111.52|tag_score=117.99
+37	,	_	PUNCT	_	_	38	punct	_	gov2=41|gov2_score=10.31|gov_score=107|rel_score=117.99|tag_score=117.99
+38	parce	parce	SCONJ	_	_	34	mod	_	gov2=28|gov2_score=44.63|gov_score=63|rel_score=117.99|tag_score=117.99
+39	que	que	SCONJ	_	_	38	unk@fixed	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+40	ça	ça	PRON	_	_	41	subj	_	gov2=0|gov2_score=0|gov_score=117|rel2=subj@expl|rel2_score=6.47|rel_score=111.52|tag_score=117.99
+41	fait	faire	VERB	_	_	38	comp:obj	_	gov2=39|gov2_score=10.44|gov_score=107|rel_score=117.99|tag_score=117.99
+42	euh	euh	INTJ	_	_	44	discourse	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+43	douze	douze	NUM	_	_	44	det	_	gov2=0|gov2_score=0|gov_score=117|rel2=mod|rel2_score=13.72|rel_score=104.27|tag_score=117.99
+44	euros	euro	NOUN	_	_	41	comp:obj	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+45	en	en	ADP	_	_	44	mod	_	gov2=41|gov2_score=16.53|gov_score=101|rel_score=117.99|tag_score=117.99
+46	tout	tout	NOUN	_	_	45	comp:obj	_	gov2=44|gov2_score=1.83|gov_score=116|rel_score=117.99|tag2_score=51.01|tag_score=56.54
+47	,	_	PUNCT	_	_	49	punct	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+48	un	un	DET	_	_	49	det	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+49	truc	truc	NOUN	_	_	44	conj:dicto	_	gov2=41|gov2_score=10.89|gov_score=90|rel2=conj:appos|rel2_score=29.81|rel_score=49.04|tag_score=117.99
+50	comme	comme	ADP	_	_	49	mod	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag2_score=13.28|tag_score=94.27
+51	ça	ça	PRON	_	_	50	comp:obj	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+52	douze	douze	NUM	_	_	55	det	_	gov2=41|gov2_score=10.89|gov_score=107|rel2=mod|rel2_score=13.72|rel_score=93.38|tag_score=117.99
+53	ou	ou	CCONJ	_	_	54	cc	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag_score=117.99
+54	treize	treize	NUM	_	_	52	conj:coord	_	gov2=55|gov2_score=6.47|gov_score=111|rel2=mod|rel2_score=6.47|rel_score=109.69|tag_score=117.99
+55	euros	euro	NOUN	_	_	49	conj:dicto	_	gov2=54|gov2_score=10.89|gov_score=90|rel2=conj:appos|rel2_score=29.81|rel_score=59.35|tag_score=117.99
+56	en	en	ADP	_	_	55	mod	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag2_score=4.67|tag_score=113.32
+57	tout	tout	ADV	_	_	56	comp:obj	_	gov2=0|gov2_score=0|gov_score=117|rel_score=117.99|tag2_score=40.12|tag_score=77.87
+58	.	_	PUNCT	_	_	13	punct	_	gov2=34|gov2_score=26.84|gov_score=80|rel_score=107.1|tag_score=117.99
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_33
+# text = et euh , bah nan du coup ça fait encore moins , ouais ,
+# timestamp = 1590507647.446326
+1	et	et	CCONJ	_	_	9	cc	_	gov2=5|gov2_score=18.56|gov_score=46|rel_score=65.09|tag_score=65.09
+2	euh	euh	INTJ	_	_	1	discourse	_	gov2=5|gov2_score=18.56|gov_score=46|rel_score=65.09|tag_score=65.09
+3	,	_	PUNCT	_	_	1	punct	_	gov2=2|gov2_score=18.56|gov_score=30|rel_score=65.09|tag_score=65.09
+4	bah	bah	INTJ	_	_	9	discourse	_	gov2=5|gov2_score=18.56|gov_score=46|rel_score=65.09|tag_score=65.09
+5	nan	nan	ADV	_	_	9	discourse	_	gov2=0|gov2_score=18.56|gov_score=46|rel2=root|rel2_score=18.56|rel_score=46.53|tag2_score=16.03|tag_score=49.06
+6	du	de+le	ADP	_	_	9	discourse	_	gov2=0|gov2_score=0|gov_score=65|rel2=mod|rel2_score=18.56|rel_score=46.53|tag_score=65.09
+7	coup	coup	NOUN	_	_	6	comp:obj	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.09|tag_score=65.09
+8	ça	ça	PRON	_	_	9	subj	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.09|tag_score=65.09
+9	fait	faire	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=65|rel_score=65.09|tag_score=65.09
+10	encore	encore	ADV	_	_	11	mod	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.09|tag_score=65.09
+11	moins	moins	ADV	_	_	9	mod	_	gov2=0|gov2_score=0|gov_score=65|rel2=comp:obj|rel2_score=18.56|rel_score=46.53|tag_score=65.09
+12	,	_	PUNCT	_	_	13	punct	_	gov2=9|gov2_score=15.92|gov_score=49|rel_score=65.09|tag_score=65.09
+13	ouais	ouais	INTJ	_	_	9	discourse	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.09|tag2_score=18.56|tag_score=46.53
+14	,	_	PUNCT	_	_	9	punct	_	gov2=0|gov2_score=0|gov_score=65|rel_score=65.09|tag_score=65.09
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_34
+# text = il y avait des fois , on était vraiment beaucoup ,
+# timestamp = 1590507647.446329
+1	il	il	PRON	_	_	3	subj@expl	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.66|tag_score=28.66
+2	y	y	PRON	_	_	3	comp:obl	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.66|tag_score=28.66
+3	avait	avoir	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=28|rel_score=28.66|tag_score=28.66
+4	des	de+le	DET	_	_	5	det	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.66|tag_score=28.66
+5	fois	fois	NOUN	_	_	3	comp:obj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.66|tag_score=28.66
+6	,	_	PUNCT	_	_	8	punct	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.66|tag_score=28.66
+7	on	on	PRON	_	_	8	subj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.66|tag_score=28.66
+8	était	être	AUX	_	_	5	conj:appos	_	gov2=0|gov2_score=0|gov_score=28|highlight=pink|rel2=mod|rel2_score=14.08|rel_score=14.58|tag_score=28.66
+9	vraiment	vraiment	ADV	_	_	10	mod	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.66|tag_score=28.66
+10	beaucoup	beaucoup	PRON	_	_	8	comp:pred	_	gov2=0|gov2_score=0|gov_score=28|highlight=pink|rel_score=28.66|tag2_score=14.08|tag_score=14.58
+11	,	_	PUNCT	_	_	3	punct	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.66|tag_score=28.66
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_35
+# text = et genre , t' es archi gêné quand tu rentres , parce que , en vrai du coup tu dois t' éparpiller dans la salle , parce que tu peux pas tous , tout le monde , tout le monde peut pas se mettre ensemble
+# timestamp = 1590507647.446332
+1	et	et	CCONJ	_	_	5	cc	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+2	genre	genre	NOUN	_	_	1	discourse	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag2_score=22.22|tag_score=29.41
+3	,	_	PUNCT	_	_	1	punct	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+4	t'	te	PRON	_	_	5	subj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|SpaceAfter=No|tag_score=66.49
+5	es	être	AUX	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+6	archi	archir	ADV	_	_	7	mod	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+7	gêné	gêner	VERB	_	_	5	comp:obj	_	gov2=0|gov2_score=0|gov_score=66|rel2=comp:aux|rel2_score=14.86|rel_score=22.22|tag2_score=22.61|tag_score=43.88
+8	quand	quand	SCONJ	_	_	7	mod	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+9	tu	tu	PRON	_	_	10	subj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+10	rentres	rentrer	VERB	_	_	8	comp:obj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+11	,	_	PUNCT	_	_	12	punct	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+12	parce	parce	SCONJ	_	_	7	mod	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+13	que	que	SCONJ	_	_	12	unk@fixed	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+14	,	_	PUNCT	_	_	20	punct	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+15	en	en	ADP	_	_	20	discourse	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+16	vrai	vrai	NOUN	_	_	15	comp:obj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag2_score=14.83|tag_score=51.66
+17	du	de+le	ADP	_	_	20	discourse	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+18	coup	coup	NOUN	_	_	17	comp:obj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+19	tu	tu	PRON	_	_	20	subj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+20	dois	devoir	VERB	_	_	12	comp:obj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+21	t'	te	PRON	_	_	22	comp:obj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|SpaceAfter=No|tag_score=66.49
+22	éparpiller	éparpiller	VERB	_	_	20	comp:obj@x	_	gov2=0|gov2_score=0|gov_score=66|rel2=comp:obj|rel2_score=14.44|rel_score=52.05|tag2_score=7.78|tag_score=58.71
+23	dans	dans	ADP	_	_	22	mod	_	gov2=0|gov2_score=0|gov_score=66|rel2=comp:obl|rel2_score=14.86|rel_score=51.63|tag_score=66.49
+24	la	le	DET	_	_	25	det	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+25	salle	_	NOUN	_	_	23	comp:obj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+26	,	_	PUNCT	_	_	27	punct	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+27	parce	parce	SCONJ	_	_	22	mod	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+28	que	que	SCONJ	_	_	27	unk@fixed	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+29	tu	tu	PRON	_	_	30	subj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+30	peux	pouvoir	VERB	_	_	27	comp:obj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+31	pas	pas	ADV	_	_	30	mod	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+32	tous	tout	PRON	_	_	30	comp:obj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+33	,	_	PUNCT	_	_	41	punct	_	gov2=30|gov2_score=14.83|gov_score=51|rel_score=66.49|tag_score=66.49
+34	tout	tout	ADJ	_	_	36	mod	_	gov2=32|gov2_score=7.78|gov_score=58|rel2=conj:dicto|rel2_score=7.78|rel_score=58.71|tag2_score=14.83|tag_score=37.22
+35	le	le	DET	_	_	36	det	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+36	monde	monde	NOUN	_	_	41	subj	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+37	,	_	PUNCT	_	_	40	punct	_	gov2=36|gov2_score=14.44|gov_score=52|rel_score=66.49|tag_score=66.49
+38	tout	tout	ADJ	_	_	40	mod	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag2_score=14.83|tag_score=37.22
+39	le	le	DET	_	_	40	det	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+40	monde	monde	NOUN	_	_	36	conj:dicto	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+41	peut	pouvoir	VERB	_	_	30	conj:dicto	_	gov2=0|gov2_score=0|gov_score=66|rel_score=66.49|tag_score=66.49
+42	pas	pas	ADV	_	_	41	mod	_	gov2=44|gov2_score=7.78|gov_score=58|rel_score=66.49|tag_score=66.49
+43	se	se	PRON	_	_	44	comp:obj	_	gov2=0|gov2_score=0|gov_score=66|rel2=comp@fixed|rel2_score=14.58|rel_score=51.91|tag_score=66.49
+44	mettre	mettre	VERB	_	_	41	comp:obj@x	_	gov2=0|gov2_score=0|gov_score=66|rel2=comp:obj|rel2_score=14.44|rel_score=52.05|tag_score=66.49
+45	ensemble	ensemble	ADV	_	_	44	mod	_	gov2=0|gov2_score=0|gov_score=66|rel2=comp:obj|rel2_score=14.86|rel_score=51.63|tag_score=66.49
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_36
+# text = puis il y avait une fois où j' étais pas là , où mes potes l' avaient fait , et ils avaient dit qu' ils , il y avait quelqu'un qui était allé les dénoncer et tout ,
+# timestamp = 1590507647.446334
+1	puis	puis	ADV	_	_	4	mod	_	gov2=0|gov2_score=0|gov_score=55|rel2=cc|rel2_score=16.89|rel_score=39.09|tag_score=55.98
+2	il	il	PRON	_	_	4	subj@expl	_	gov2=0|gov2_score=0|gov_score=55|rel2=subj|rel2_score=25.17|rel_score=30.81|tag_score=55.98
+3	y	y	PRON	_	_	4	comp:obl	_	gov2=0|gov2_score=0|gov_score=55|rel2=mod|rel2_score=0|rel_score=55.98|tag2_score=10.31|tag_score=45.67
+4	avait	avoir	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+5	une	un	DET	_	_	6	det	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+6	fois	fois	NOUN	_	_	4	comp:obj	_	gov2=0|gov2_score=0|gov_score=55|rel2=comp:obl|rel2_score=16.89|rel_score=39.09|tag_score=55.98
+7	où	où	ADV	_	_	6	mod	_	gov2=9|gov2_score=27.2|gov_score=28|rel2=mod@relcl|rel2_score=13.92|rel_score=42.06|tag2_score=25.17|tag_score=30.81
+8	j'	je	PRON	_	_	9	subj	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|SpaceAfter=No|tag_score=55.98
+9	étais	être	AUX	_	_	7	comp:obj	_	gov2=6|gov2_score=27.2|gov_score=28|rel2=mod@relcl|rel2_score=27.2|rel_score=28.78|tag2_score=13.92|tag_score=42.06
+10	pas	pas	ADV	_	_	9	mod	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+11	là	là	ADV	_	_	9	comp:obl	_	gov2=0|gov2_score=0|gov_score=55|rel2=mod|rel2_score=14.86|rel_score=41.12|tag_score=55.98
+12	,	_	PUNCT	_	_	13	punct	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+13	où	où	PRON	_	_	7	conj:coord	_	gov2=17|gov2_score=27.2|gov_score=28|rel2=mod|rel2_score=27.2|rel_score=28.78|tag_score=55.98
+14	mes	son	DET	_	_	15	det	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+15	potes	pote	NOUN	_	_	17	subj	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+16	l'	le	PRON	_	_	18	comp:obj	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|SpaceAfter=No|tag_score=55.98
+17	avaient	avoir	AUX	_	_	13	comp:obj	_	gov2=9|gov2_score=16.89|gov_score=28|rel2=conj:coord|rel2_score=16.89|rel_score=28.78|tag_score=55.98
+18	fait	faire	VERB	_	_	17	comp:aux	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+19	,	_	PUNCT	_	_	22	punct	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+20	et	et	CCONJ	_	_	22	cc	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+21	ils	il	PRON	_	_	22	subj	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+22	avaient	avoir	AUX	_	_	17	conj:coord	_	gov2=4|gov2_score=10.31|gov_score=45|rel_score=55.98|tag_score=55.98
+23	dit	dire	VERB	_	_	22	comp:aux	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+24	qu'	que	SCONJ	_	_	23	comp:obj	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|SpaceAfter=No|tag_score=55.98
+25	ils	il	PRON	_	_	24	unk@scrap	_	gov2=29|gov2_score=25.17|gov_score=30|rel2=subj|rel2_score=14.86|rel_score=30.81|tag_score=55.98
+26	,	_	PUNCT	_	_	29	punct	_	gov2=27|gov2_score=14.86|gov_score=41|rel_score=55.98|tag_score=55.98
+27	il	il	PRON	_	_	29	subj@expl	_	gov2=25|gov2_score=25.17|gov_score=30|rel2=conj:dicto|rel2_score=25.17|rel_score=30.81|tag_score=55.98
+28	y	y	PRON	_	_	29	comp:obl	_	gov2=0|gov2_score=0|gov_score=55|rel2=mod|rel2_score=0|rel_score=55.98|tag_score=55.98
+29	avait	avoir	VERB	_	_	24	comp:obj	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+30	quelqu'un	quelqu'un	PRON	_	_	29	comp:obj	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+31	qui	qui	PRON	_	_	32	subj	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+32	était	être	AUX	_	_	30	mod	_	gov2=0|gov2_score=0|gov_score=55|rel2=mod@relcl|rel2_score=27.2|rel_score=28.78|tag_score=55.98
+33	allé	aller	VERB	_	_	32	comp:aux	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+34	les	le	PRON	_	_	35	comp:obj	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+35	dénoncer	dénoncer	VERB	_	_	33	comp:obj@x	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+36	et	et	CCONJ	_	_	37	cc	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+37	tout	tout	ADV	_	_	35	conj:coord	_	gov2=0|gov2_score=0|gov_score=55|highlight=pink|rel_score=55.98|tag2_score=27.2|tag_score=28.78
+38	,	_	PUNCT	_	_	4	punct	_	gov2=0|gov2_score=0|gov_score=55|rel_score=55.98|tag_score=55.98
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_37
+# text = du coup ils avaient dû partir en courant .
+# timestamp = 1590507647.446337
+1	du	de+le	ADP	_	_	4	discourse	_	gov2=0|gov2_score=0|gov_score=20|rel_score=20.56|tag_score=20.56
+2	coup	coup	NOUN	_	_	1	comp:obj	_	gov2=0|gov2_score=0|gov_score=20|rel_score=20.56|tag_score=20.56
+3	ils	il	PRON	_	_	4	subj	_	gov2=0|gov2_score=0|gov_score=20|rel_score=20.56|tag_score=20.56
+4	avaient	avoir	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=20|rel_score=20.56|tag2_score=7.5|tag_score=13.06
+5	dû	devoir	VERB	_	_	4	comp:aux	_	gov2=0|gov2_score=0|gov_score=20|rel_score=20.56|tag_score=20.56
+6	partir	partir	VERB	_	_	5	comp:obj@x	_	gov2=0|gov2_score=0|gov_score=20|rel_score=20.56|tag_score=20.56
+7	en	en	ADP	_	_	6	mod	_	gov2=0|gov2_score=0|gov_score=20|rel_score=20.56|tag_score=20.56
+8	courant	courant	VERB	_	_	7	comp:obj	_	gov2=0|gov2_score=0|gov_score=20|rel_score=20.56|tag_score=20.56
+9	.	_	PUNCT	_	_	4	punct	_	gov2=0|gov2_score=0|gov_score=20|rel_score=20.56|tag_score=20.56
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_38
+# text = ils avaient dû partir en courant parce qu' il y avait un mec qui était sorti pour aller voir le , le , le mec à l~ , pour aller voir quelqu'un à l' entrée de la salle pour dire ouais il y a des gens qui sont rentrés et tout ,
+# timestamp = 1590507647.446339
+1	ils	il	PRON	_	_	2	subj	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+2	avaient	avoir	AUX	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+3	dû	devoir	VERB	_	_	2	comp:aux	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+4	partir	partir	VERB	_	_	3	comp:obj@x	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+5	en	en	ADP	_	_	4	mod	_	gov2=0|gov2_score=0|gov_score=38|rel2=mod@x|rel2_score=16.03|rel_score=22.77|tag_score=38.8
+6	courant	courant	VERB	_	_	5	comp:obj	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+7	parce	parce	SCONJ	_	_	4	mod	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+8	qu'	que	SCONJ	_	_	7	unk@fixed	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|SpaceAfter=No|tag_score=38.8
+9	il	il	PRON	_	_	11	subj	_	gov2=0|gov2_score=0|gov_score=38|rel2=subj@expl|rel2_score=12.83|rel_score=25.97|tag2_score=12.83|tag_score=25.97
+10	y	y	PRON	_	_	11	comp:obl	_	gov2=0|gov2_score=0|gov_score=38|rel2=mod|rel2_score=9.94|rel_score=28.86|tag_score=38.8
+11	avait	avoir	VERB	_	_	7	comp:obj	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+12	un	un	DET	_	_	13	det	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+13	mec	mec	NOUN	_	_	11	comp:obj	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+14	qui	qui	PRON	_	_	15	subj	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+15	était	être	AUX	_	_	13	mod@relcl	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+16	sorti	sortir	VERB	_	_	15	comp:aux	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+17	pour	pour	ADP	_	_	16	mod	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+18	aller	aller	VERB	_	_	17	comp:obj	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+19	voir	voir	VERB	_	_	18	comp:obj@x	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+20	le	le	DET	_	_	25	det	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+21	,	_	PUNCT	_	_	22	punct	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+22	le	le	DET	_	_	20	conj:dicto	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+23	,	_	PUNCT	_	_	24	punct	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+24	le	le	DET	_	_	22	conj:dicto	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+25	mec	mec	NOUN	_	_	19	comp:obj	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+26	à	à	ADP	_	_	25	mod	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+27	l~	l~	X	_	_	26	comp:obj	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+28	,	_	PUNCT	_	_	29	punct	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+29	pour	pour	ADP	_	_	17	conj:dicto	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+30	aller	aller	VERB	_	_	29	comp:obj	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+31	voir	voir	VERB	_	_	30	comp:obj@x	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+32	quelqu'un	quelqu'un	PRON	_	_	31	comp:obj	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+33	à	à	ADP	_	_	32	mod	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+34	l'	le	DET	_	_	35	det	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|SpaceAfter=No|tag_score=38.8
+35	entrée	entrée	PROPN	_	_	33	comp:obj	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag2_score=12.83|tag_score=25.97
+36	de	de	ADP	_	_	35	mod	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+37	la	le	DET	_	_	38	det	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+38	salle	_	NOUN	_	_	36	comp:obj	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+39	pour	pour	ADP	_	_	31	mod	_	gov2=0|gov2_score=0|gov_score=38|rel2=comp:obl|rel2_score=9.94|rel_score=28.86|tag_score=38.8
+40	dire	dire	VERB	_	_	39	comp:obj	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+41	ouais	ouais	INTJ	_	_	44	discourse	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+42	il	il	PRON	_	_	44	subj	_	gov2=0|gov2_score=0|gov_score=38|rel2=subj@expl|rel2_score=12.83|rel_score=25.97|tag_score=38.8
+43	y	y	PRON	_	_	44	comp:obl	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+44	a	avoir	VERB	_	_	40	parataxis:obj	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+45	des	de+le	DET	_	_	46	det	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+46	gens	gens	NOUN	_	_	44	comp:obj	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+47	qui	qui	PRON	_	_	48	subj	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+48	sont	être	AUX	_	_	46	mod@relcl	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+49	rentrés	rentrer	VERB	_	_	48	comp:aux	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+50	et	et	CCONJ	_	_	51	cc	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+51	tout	tout	PRON	_	_	48	conj:coord	_	gov2=46|gov2_score=9.94|gov_score=28|rel_score=38.8|tag_score=38.8
+52	,	_	PUNCT	_	_	2	punct	_	gov2=0|gov2_score=0|gov_score=38|rel_score=38.8|tag_score=38.8
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_39
+# text = du coup ils se sont cassés direct par la , la porte .
+# timestamp = 1590507647.446342
+1	du	de+le	ADP	_	_	5	discourse	_	gov2=0|gov2_score=0|gov_score=86|rel_score=86.8|tag_score=86.8
+2	coup	coup	NOUN	_	_	1	comp:obj	_	gov2=0|gov2_score=0|gov_score=86|rel_score=86.8|tag_score=86.8
+3	ils	il	PRON	_	_	5	subj	_	gov2=0|gov2_score=0|gov_score=86|rel_score=86.8|tag_score=86.8
+4	se	se	PRON	_	_	6	comp@fixed	_	gov2=5|gov2_score=18.78|gov_score=68|rel2=comp:obj|rel2_score=26.89|rel_score=46.16|tag_score=86.8
+5	sont	être	AUX	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=86|rel_score=86.8|tag_score=86.8
+6	cassés	casser	VERB	_	_	5	comp:aux	_	gov2=0|gov2_score=0|gov_score=86|rel2=comp:pred|rel2_score=12.31|rel_score=74.49|tag2_score=7.28|tag_score=79.52
+7	direct	direct	ADJ	_	_	6	mod	_	gov2=5|gov2_score=13.97|gov_score=67|rel2=comp:obl|rel2_score=6.47|rel_score=80.33|tag2_score=28.55|tag_score=58.25
+8	par	par	ADP	_	_	6	mod	_	gov2=7|gov2_score=14.58|gov_score=72|rel2=comp:obl|rel2_score=12.31|rel_score=74.49|tag_score=86.8
+9	la	le	DET	_	_	12	det	_	gov2=0|gov2_score=0|gov_score=86|rel2=dislocated|rel2_score=6.47|rel_score=80.33|tag_score=86.8
+10	,	_	PUNCT	_	_	11	punct	_	gov2=0|gov2_score=0|gov_score=86|rel_score=86.8|tag_score=86.8
+11	la	le	DET	_	_	9	conj:dicto	_	gov2=12|gov2_score=6.47|gov_score=80|rel2=det|rel2_score=6.47|rel_score=80.33|tag_score=86.8
+12	porte	porte	NOUN	_	_	8	comp:obj	_	gov2=0|gov2_score=0|gov_score=86|rel_score=86.8|tag_score=86.8
+13	.	_	PUNCT	_	_	5	punct	_	gov2=0|gov2_score=0|gov_score=86|rel_score=86.8|tag_score=86.8
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_40
+# text = mais genre dans ce cinéma en tout cas , genre les portes d' entrée c' est pas les mêmes que les portes de sortie .
+# timestamp = 1590507647.446344
+1	mais	mais	ADV	_	_	16	cc	_	gov2=0|gov2_score=0|gov_score=79|rel_score=79.36|tag2_score=22.22|tag_score=57.14
+2	genre	genre	NOUN	_	_	3	discourse	_	gov2=0|gov2_score=0|gov_score=79|rel_score=79.36|tag2_score=33.17|tag_score=40.44
+3	dans	dans	ADP	_	_	16	mod	_	gov2=0|gov2_score=0|gov_score=79|rel2=comp:obl|rel2_score=13.92|rel_score=65.44|tag_score=79.36
+4	ce	ce	DET	_	_	5	det	_	gov2=3|gov2_score=13.92|gov_score=65|rel_score=79.36|tag_score=79.36
+5	cinéma	cinéma	NOUN	_	_	3	comp:obj	_	gov2=0|gov2_score=0|gov_score=79|rel_score=79.36|tag_score=79.36
+6	en	en	ADP	_	_	3	mod	_	gov2=5|gov2_score=7.78|gov_score=65|rel2=discourse|rel2_score=9.97|rel_score=69.39|tag_score=79.36
+7	tout	tout	ADJ	_	_	8	det	_	gov2=0|gov2_score=0|gov_score=79|rel2=mod|rel2_score=36.22|rel_score=43.14|tag2_score=19.25|tag_score=60.11
+8	cas	cas	NOUN	_	_	6	comp:obj	_	gov2=0|gov2_score=0|gov_score=79|rel_score=79.36|tag_score=79.36
+9	,	_	PUNCT	_	_	3	punct	_	gov2=0|gov2_score=0|gov_score=79|rel_score=79.36|tag_score=79.36
+10	genre	genre	NOUN	_	_	11	discourse	_	gov2=12|gov2_score=24.41|gov_score=38|rel_score=79.36|tag2_score=33.17|tag_score=40.44
+11	les	le	DET	_	_	12	det	_	gov2=0|gov2_score=0|gov_score=79|rel_score=79.36|tag_score=79.36
+12	portes	porte	NOUN	_	_	16	dislocated	_	gov2=15|gov2_score=13.92|gov_score=65|rel2=conj:dicto|rel2_score=13.92|rel_score=65.44|tag_score=79.36
+13	d'	d'	ADP	_	_	12	mod	_	gov2=0|gov2_score=0|gov_score=79|rel_score=79.36|SpaceAfter=No|tag_score=79.36
+14	entrée	entrée	NOUN	_	_	13	comp:obj	_	gov2=0|gov2_score=0|gov_score=79|rel_score=79.36|tag_score=79.36
+15	c'	ce	PRON	_	_	16	subj	_	gov2=0|gov2_score=0|gov_score=79|rel2=subj@expl|rel2_score=14.44|rel_score=64.92|SpaceAfter=No|tag_score=79.36
+16	est	être	AUX	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=79|rel_score=79.36|tag_score=79.36
+17	pas	pas	ADV	_	_	16	mod	_	gov2=0|gov2_score=0|gov_score=79|rel_score=79.36|tag_score=79.36
+18	les	le	DET	_	_	19	det	_	gov2=0|gov2_score=0|gov_score=79|rel_score=79.36|tag_score=79.36
+19	mêmes	même	ADJ	_	_	16	comp:pred	_	gov2=0|gov2_score=0|gov_score=79|rel2=comp:obj|rel2_score=7.78|rel_score=71.58|tag2_score=28.36|tag_score=41.03
+20	que	que	SCONJ	_	_	19	comp:obj	_	gov2=16|gov2_score=14.44|gov_score=64|rel2=mod|rel2_score=16.03|rel_score=31.14|tag2_score=16.03|tag_score=57.58
+21	les	le	DET	_	_	22	det	_	gov2=0|gov2_score=0|gov_score=79|rel_score=79.36|tag_score=79.36
+22	portes	porte	NOUN	_	_	20	comp:obj	_	gov2=0|gov2_score=0|gov_score=79|rel_score=79.36|tag_score=79.36
+23	de	de	ADP	_	_	22	mod	_	gov2=0|gov2_score=0|gov_score=79|rel_score=79.36|tag_score=79.36
+24	sortie	sortie	NOUN	_	_	23	comp:obj	_	gov2=0|gov2_score=0|gov_score=79|rel_score=79.36|tag_score=79.36
+25	.	_	PUNCT	_	_	16	punct	_	gov2=0|gov2_score=0|gov_score=79|rel_score=79.36|tag_score=79.36
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_41
+# text = et tout le monde ramène genre deux euros , tu vois ,
+# timestamp = 1590507647.446347
+1	et	et	CCONJ	_	_	5	cc	_	gov2=0|gov2_score=0|gov_score=45|rel_score=45.36|tag_score=45.36
+2	tout	tout	ADJ	_	_	4	mod	_	gov2=0|gov2_score=0|gov_score=45|rel_score=45.36|tag_score=45.36
+3	le	le	DET	_	_	4	det	_	gov2=0|gov2_score=0|gov_score=45|rel_score=45.36|tag_score=45.36
+4	monde	monde	NOUN	_	_	5	subj	_	gov2=0|gov2_score=0|gov_score=45|rel_score=45.36|tag_score=45.36
+5	ramène	ramener	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=45|rel2=conj:coord|rel2_score=16.14|rel_score=29.22|tag_score=45.36
+6	genre	genre	ADV	_	_	8	discourse	_	gov2=7|gov2_score=4.67|gov_score=40|rel_score=45.36|tag2_score=18.78|tag_score=26.58
+7	deux	deux	NUM	_	_	8	det	_	gov2=0|gov2_score=0|gov_score=45|rel_score=45.36|tag_score=45.36
+8	euros	euro	NOUN	_	_	5	comp:obj	_	gov2=0|gov2_score=0|gov_score=45|rel_score=45.36|tag_score=45.36
+9	,	_	PUNCT	_	_	11	punct	_	gov2=0|gov2_score=4.67|gov_score=40|rel_score=45.36|tag_score=45.36
+10	tu	tu	PRON	_	_	11	subj	_	gov2=0|gov2_score=0|gov_score=45|rel_score=45.36|tag_score=45.36
+11	vois	voir	VERB	_	_	5	discourse	_	gov2=8|gov2_score=11.47|gov_score=29|rel_score=45.36|tag2_score=11.47|tag_score=33.89
+12	,	_	PUNCT	_	_	5	punct	_	gov2=11|gov2_score=15.11|gov_score=30|rel_score=45.36|tag_score=45.36
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_42
+# text = et t' achètes deux tickets .
+# timestamp = 1590507647.446349
+1	et	et	CCONJ	_	_	3	cc	_	gov2=0|gov2_score=0|gov_score=94|rel_score=94.28|tag_score=94.28
+2	t'	te	PRON	_	_	3	subj	_	gov2=0|gov2_score=0|gov_score=94|rel_score=94.28|SpaceAfter=No|tag_score=94.28
+3	achètes	acheter	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=94|rel_score=94.28|tag_score=94.28
+4	deux	deux	NUM	_	_	5	det	_	gov2=0|gov2_score=0|gov_score=94|rel2=mod|rel2_score=10.44|rel_score=83.84|tag_score=94.28
+5	tickets	ticket	NOUN	_	_	3	comp:obj	_	gov2=0|gov2_score=0|gov_score=94|rel_score=94.28|tag_score=94.28
+6	.	_	PUNCT	_	_	3	punct	_	gov2=0|gov2_score=0|gov_score=94|rel_score=94.28|tag_score=94.28
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_43
+# text = donc on a fait euh , il fallait , il fallait qu' on appelle ,
+# timestamp = 1590507647.446352
+1	donc	donc	ADV	_	_	3	mod	_	gov2=0|gov2_score=0|gov_score=42|rel2=discourse|rel2_score=5.75|rel_score=32.33|tag_score=42.91
+2	on	on	PRON	_	_	3	subj	_	gov2=0|gov2_score=0|gov_score=42|rel_score=42.91|tag_score=42.91
+3	a	avoir	AUX	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=42|rel2=conj:coord|rel2_score=4.83|rel_score=38.08|tag_score=42.91
+4	fait	faire	VERB	_	_	3	comp:aux	_	gov2=0|gov2_score=0|gov_score=42|rel_score=42.91|tag_score=42.91
+5	euh	euh	INTJ	_	_	8	discourse	_	gov2=0|gov2_score=0|gov_score=42|rel_score=42.91|tag_score=42.91
+6	,	_	PUNCT	_	_	5	punct	_	gov2=0|gov2_score=0|gov_score=42|rel_score=42.91|tag_score=42.91
+7	il	il	PRON	_	_	8	subj	_	gov2=0|gov2_score=0|gov_score=42|rel2=subj@expl|rel2_score=14.44|rel_score=28.47|tag_score=42.91
+8	fallait	falloir	VERB	_	_	3	conj:dicto	_	gov2=0|gov2_score=13.06|gov_score=25|rel2=root|rel2_score=13.06|rel_score=20.19|tag_score=42.91
+9	,	_	PUNCT	_	_	11	punct	_	gov2=8|gov2_score=4.83|gov_score=38|rel_score=42.91|tag_score=42.91
+10	il	il	PRON	_	_	11	subj	_	gov2=0|gov2_score=0|gov_score=42|rel2=subj@expl|rel2_score=14.44|rel_score=28.47|tag_score=42.91
+11	fallait	falloir	VERB	_	_	8	conj:dicto	_	gov2=0|gov2_score=0|gov_score=42|rel_score=42.91|tag_score=42.91
+12	qu'	que	SCONJ	_	_	11	comp:obj	_	gov2=0|gov2_score=0|gov_score=42|rel_score=42.91|SpaceAfter=No|tag_score=42.91
+13	on	on	PRON	_	_	14	subj	_	gov2=0|gov2_score=0|gov_score=42|rel_score=42.91|tag_score=42.91
+14	appelle	appeler	VERB	_	_	12	comp:obj	_	gov2=0|gov2_score=0|gov_score=42|rel_score=42.91|tag_score=42.91
+15	,	_	PUNCT	_	_	3	punct	_	gov2=8|gov2_score=13.06|gov_score=25|rel_score=42.91|tag_score=42.91
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_44
+# text = et puis euh .
+# timestamp = 1590507647.446354
+1	et	et	CCONJ	_	_	0	root	_	gov2=2|gov2_score=31.65|gov_score=46|rel2=cc|rel2_score=22.78|rel_score=40.92|tag_score=77.79
+2	puis	puis	ADV	_	_	1	unk@fixed	_	gov2=0|gov2_score=31.65|gov_score=46|rel2=root|rel2_score=24.37|rel_score=46.14|tag2_score=33.78|tag_score=44.01
+3	euh	euh	INTJ	_	_	1	discourse	_	gov2=2|gov2_score=29.59|gov_score=40|rel_score=77.79|tag_score=77.79
+4	.	_	PUNCT	_	_	1	punct	_	gov2=0|gov2_score=14.56|gov_score=42|rel_score=66.9|tag_score=77.79
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_45
+# text = venez machin tu vois
+# timestamp = 1590507647.446357
+1	venez	venir	VERB	_	_	0	root	_	gov2=0|gov2_score=4.83|gov_score=4|highlight=pink|rel2=comp:aux|rel2_score=4.83|rel_score=4.83|tag_score=9.66
+2	machin	machin	NOUN	_	_	0	root	_	gov2=0|gov2_score=4.83|gov_score=4|highlight=pink|rel2=vocative|rel2_score=4.83|rel_score=4.83|tag_score=9.66
+3	tu	tu	PRON	_	_	4	subj	_	gov2=0|gov2_score=0|gov_score=9|rel_score=9.66|tag_score=9.66
+4	vois	voir	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=9|highlight=pink|rel2=root|rel2_score=4.83|rel_score=4.83|tag_score=9.66
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_46
+# text = je suis en face du kébab , euh ,
+# timestamp = 1590507647.446359
+1	je	je	PRON	_	_	2	subj	_	gov2=0|gov2_score=0|gov_score=49|rel2=subj@expl|rel2_score=1.83|rel_score=47.94|tag_score=49.77
+2	suis	être	AUX	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=49|rel_score=49.77|tag2_score=16.89|tag_score=32.88
+3	en	en	ADP	_	_	2	comp:obl	_	gov2=0|gov2_score=0|gov_score=49|rel2=mod|rel2_score=7.94|rel_score=40|tag_score=49.77
+4	face	face	NOUN	_	_	3	comp:obj	_	gov2=2|gov2_score=1.83|gov_score=47|rel2=comp:obl|rel2_score=1.83|rel_score=47.94|tag2_score=8.53|tag_score=41.24
+5	du	de+le	ADP	_	_	4	mod	_	gov2=0|gov2_score=0|gov_score=49|rel2=comp:obl|rel2_score=7.94|rel_score=41.83|tag2_score=8.53|tag_score=41.24
+6	kébab	kébab	NOUN	_	_	5	comp:obj	_	gov2=0|gov2_score=0|gov_score=49|rel_score=49.77|tag_score=49.77
+7	,	_	PUNCT	_	_	8	punct	_	gov2=2|gov2_score=16.89|gov_score=32|rel_score=49.77|tag_score=49.77
+8	euh	euh	INTJ	_	_	6	discourse	_	gov2=2|gov2_score=18.72|gov_score=22|rel_score=41.24|tag_score=49.77
+9	,	_	PUNCT	_	_	2	punct	_	gov2=8|gov2_score=18.72|gov_score=23|rel_score=49.77|tag_score=49.77
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_47
+# text = on devait s' appeler machin ,
+# timestamp = 1590507647.446361
+1	on	on	PRON	_	_	2	subj	_	gov2=0|gov2_score=0|gov_score=36|rel_score=36.64|tag_score=36.64
+2	devait	devoir	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=36|rel2=conj:dicto|rel2_score=14.08|rel_score=22.56|tag2_score=4|tag_score=32.64
+3	s'	se	PRON	_	_	4	comp:obj	_	gov2=0|gov2_score=0|gov_score=36|rel2=comp@fixed|rel2_score=14.08|rel_score=22.56|SpaceAfter=No|tag_score=36.64
+4	appeler	appeler	VERB	_	_	2	comp:obj@x	_	gov2=0|gov2_score=0|gov_score=36|rel2=comp:obj|rel2_score=4|rel_score=32.64|tag_score=36.64
+5	machin	machin	NOUN	_	_	4	comp:obj	_	gov2=0|gov2_score=0|gov_score=36|highlight=pink|rel2=comp:pred|rel2_score=18.08|rel_score=18.56|tag_score=36.64
+6	,	_	PUNCT	_	_	2	punct	_	gov2=5|gov2_score=4|gov_score=32|rel_score=36.64|tag_score=36.64
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_48
+# text = mais , après euh au bout de quelques tentatives , on connaissait par coeur le truc .
+# timestamp = 1590507647.446364
+1	mais	mais	CCONJ	_	_	12	cc	_	gov2=0|gov2_score=0|gov_score=57|rel_score=57.95|tag2_score=25.89|tag_score=32.06
+2	,	_	PUNCT	_	_	1	punct	_	gov2=0|gov2_score=0|gov_score=57|rel_score=57.95|tag_score=57.95
+3	après	après	ADP	_	_	12	mod	_	gov2=0|gov2_score=0|gov_score=57|rel2=dislocated|rel2_score=13.97|rel_score=43.98|tag2_score=7.78|tag_score=42.89
+4	euh	euh	INTJ	_	_	5	discourse	_	gov2=3|gov2_score=21.25|gov_score=26|rel_score=57.95|tag2_score=7.28|tag_score=50.67
+5	au	à+le	ADP	_	_	3	mod	_	gov2=12|gov2_score=24.28|gov_score=33|rel2=conj:dicto|rel2_score=20.14|rel_score=30.03|tag_score=57.95
+6	bout	bout	NOUN	_	_	5	comp:obj	_	gov2=0|gov2_score=0|gov_score=57|rel_score=57.95|tag_score=57.95
+7	de	de	ADP	_	_	6	comp:obl	_	gov2=0|gov2_score=0|gov_score=57|rel2=comp:obj|rel2_score=20.14|rel_score=37.81|tag_score=57.95
+8	quelques	quelque	ADJ	_	_	9	det	_	gov2=0|gov2_score=0|gov_score=57|rel2=mod|rel2_score=18.61|rel_score=39.34|tag2_score=25.37|tag_score=32.58
+9	tentatives	_	NOUN	_	_	7	comp:obj	_	gov2=0|gov2_score=0|gov_score=57|rel2=mod|rel2_score=7.28|rel_score=50.67|tag_score=57.95
+10	,	_	PUNCT	_	_	3	punct	_	gov2=0|gov2_score=0|gov_score=57|rel_score=57.95|tag_score=57.95
+11	on	on	PRON	_	_	12	subj	_	gov2=0|gov2_score=0|gov_score=57|rel_score=57.95|tag_score=57.95
+12	connaissait	connaître	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=57|rel2=conj:coord|rel2_score=7.28|rel_score=50.67|tag_score=57.95
+13	par	par	ADP	_	_	12	mod	_	gov2=16|gov2_score=5.75|gov_score=52|rel_score=57.95|tag_score=57.95
+14	coeur	coeur	NOUN	_	_	13	comp:obj	_	gov2=0|gov2_score=0|gov_score=57|rel_score=57.95|tag_score=57.95
+15	le	le	DET	_	_	16	det	_	gov2=0|gov2_score=0|gov_score=57|rel_score=57.95|tag_score=57.95
+16	truc	truc	NOUN	_	_	12	comp:obj	_	gov2=0|gov2_score=0|gov_score=57|rel_score=57.95|tag_score=57.95
+17	.	_	PUNCT	_	_	12	punct	_	gov2=0|gov2_score=7.28|gov_score=50|rel_score=57.95|tag_score=57.95
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_49
+# text = et on savait à quelle porte ça correspondait ,
+# timestamp = 1590507647.446366
+1	et	et	CCONJ	_	_	3	cc	_	gov2=0|gov2_score=0|gov_score=77|rel_score=77.44|tag_score=77.44
+2	on	on	PRON	_	_	3	subj	_	gov2=0|gov2_score=0|gov_score=77|rel_score=77.44|tag_score=77.44
+3	savait	savoir	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=77|rel2=conj:coord|rel2_score=0|rel_score=77.44|tag_score=77.44
+4	à	à	ADP	_	_	8	comp:obl	_	gov2=0|gov2_score=0|gov_score=77|rel2=comp:obl@x|rel2_score=13.72|rel_score=55.94|tag_score=77.44
+5	quelle	quel	DET	_	_	6	det	_	gov2=0|gov2_score=0|gov_score=77|rel_score=77.44|tag2_score=7.78|tag_score=69.66
+6	porte	porte	NOUN	_	_	4	comp:obj	_	gov2=0|gov2_score=0|gov_score=77|rel2=comp:obl|rel2_score=7.78|rel_score=69.66|tag_score=77.44
+7	ça	ça	PRON	_	_	8	subj	_	gov2=0|gov2_score=0|gov_score=77|rel2=subj@expl|rel2_score=14.44|rel_score=63|tag_score=77.44
+8	correspondait	_	VERB	_	_	3	comp:obj	_	gov2=0|gov2_score=0|gov_score=77|rel2=conj:coord|rel2_score=14.06|rel_score=63.38|tag_score=77.44
+9	,	_	PUNCT	_	_	3	punct	_	gov2=0|gov2_score=0|gov_score=77|rel_score=77.44|tag_score=77.44
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_50
+# text = tu vois genre c' est , c' est le truc archi secret !
+# timestamp = 1590507647.446369
+1	tu	tu	PRON	_	_	2	subj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.41|tag_score=28.41
+2	vois	voir	VERB	_	_	5	discourse	_	gov2=0|gov2_score=0|gov_score=28|rel2=comp:obl|rel2_score=1.83|rel_score=26.58|tag_score=28.41
+3	genre	genre	NOUN	_	_	2	discourse	_	gov2=5|gov2_score=6.66|gov_score=21|rel_score=28.41|tag2_score=9.61|tag_score=18.8
+4	c'	ce	PRON	_	_	5	subj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.41|SpaceAfter=No|tag_score=28.41
+5	est	être	AUX	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=28|highlight=pink|rel2=mod|rel2_score=1.83|rel_score=26.58|tag2_score=13.97|tag_score=14.44
+6	,	_	PUNCT	_	_	8	punct	_	gov2=5|gov2_score=1.83|gov_score=26|rel_score=28.41|tag_score=28.41
+7	c'	ce	PRON	_	_	8	subj	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.41|SpaceAfter=No|tag_score=28.41
+8	est	être	AUX	_	_	5	conj:dicto	_	gov2=0|gov2_score=0|gov_score=28|highlight=pink|rel_score=28.41|tag2_score=13.97|tag_score=14.44
+9	le	le	DET	_	_	10	det	_	gov2=0|gov2_score=0|gov_score=28|rel_score=28.41|tag2_score=4.83|tag_score=23.58
+10	truc	truc	NOUN	_	_	8	comp:pred	_	gov2=0|gov2_score=0|gov_score=28|rel2=comp:obj|rel2_score=7.78|rel_score=20.63|tag_score=28.41
+11	archi	archi	ADV	_	_	12	mod	_	gov2=10|gov2_score=6.66|gov_score=21|rel_score=28.41|tag2_score=6.66|tag_score=21.75
+12	secret	secret	ADJ	_	_	10	mod	_	gov2=11|gov2_score=6.66|gov_score=21|rel_score=28.41|tag_score=28.41
+13	!	_	PUNCT	_	_	5	punct	_	gov2=0|gov2_score=7.78|gov_score=18|rel_score=28.41|tag_score=28.41
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_51
+# text = quand t' es dehors t' as juste à toquer sur la porte ,
+# timestamp = 1590507647.446371
+1	quand	quand	SCONJ	_	_	6	mod	_	gov2=0|gov2_score=0|gov_score=69|rel_score=69.15|tag_score=69.15
+2	t'	tu	PRON	_	_	3	subj	_	gov2=0|gov2_score=0|gov_score=69|rel_score=69.15|SpaceAfter=No|tag_score=69.15
+3	es	être	VERB	_	_	1	comp:obj	_	gov2=13|gov2_score=7.28|gov_score=61|rel2=mod|rel2_score=7.28|rel_score=54.59|tag2_score=31.28|tag_score=37.87
+4	dehors	dehors	ADV	_	_	3	comp:obl	_	gov2=0|gov2_score=0|gov_score=69|rel2=mod|rel2_score=28.62|rel_score=30.25|tag_score=69.15
+5	t'	te	PRON	_	_	6	subj	_	gov2=0|gov2_score=0|gov_score=69|rel_score=69.15|SpaceAfter=No|tag_score=69.15
+6	as	avoir	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=69|rel2=conj:dicto|rel2_score=21|rel_score=48.15|tag_score=69.15
+7	juste	juste	ADV	_	_	6	mod	_	gov2=0|gov2_score=0|gov_score=69|rel_score=69.15|tag2_score=13.72|tag_score=55.43
+8	à	à	ADP	_	_	6	comp:obl@x	_	gov2=0|gov2_score=0|gov_score=69|rel_score=69.15|tag_score=69.15
+9	toquer	toquer	VERB	_	_	8	comp:obj	_	gov2=0|gov2_score=0|gov_score=69|rel_score=69.15|tag2_score=7.28|tag_score=61.87
+10	sur	sur	ADP	_	_	9	comp:obl	_	gov2=0|gov2_score=0|gov_score=69|rel2=mod|rel2_score=13.72|rel_score=55.43|tag_score=69.15
+11	la	le	DET	_	_	12	det	_	gov2=0|gov2_score=0|gov_score=69|rel_score=69.15|tag_score=69.15
+12	porte	porte	NOUN	_	_	10	comp:obj	_	gov2=0|gov2_score=0|gov_score=69|rel_score=69.15|tag_score=69.15
+13	,	_	PUNCT	_	_	6	punct	_	gov2=0|gov2_score=7.28|gov_score=61|rel_score=69.15|tag_score=69.15
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_52
+# text = la porte s' ouvre tout seule en mode c' est un film d' action ,
+# timestamp = 1590507647.446374
+1	la	le	DET	_	_	2	det	_	gov2=0|gov2_score=0|gov_score=69|rel_score=69.86|tag_score=69.86
+2	porte	porte	NOUN	_	_	4	subj	_	gov2=0|gov2_score=0|gov_score=69|rel_score=69.86|tag_score=69.86
+3	s'	se	PRON	_	_	4	comp:obj	_	gov2=2|gov2_score=4.67|gov_score=65|rel2=comp@fixed|rel2_score=24.03|rel_score=45.83|SpaceAfter=No|tag_score=69.86
+4	ouvre	ouvrir	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=69|rel2=conj:coord|rel2_score=22.23|rel_score=47.63|tag2_score=7.94|tag_score=61.92
+5	tout	tout	ADV	_	_	6	mod	_	gov2=0|gov2_score=0|gov_score=69|rel_score=69.86|tag_score=69.86
+6	seule	seul	ADJ	_	_	4	mod	_	gov2=15|gov2_score=7.94|gov_score=61|rel_score=61.92|tag2_score=4.67|tag_score=65.19
+7	en	en	ADP	_	_	4	mod	_	gov2=6|gov2_score=22.14|gov_score=33|rel2=discourse|rel2_score=13.75|rel_score=56.11|tag_score=69.86
+8	mode	mode	NOUN	_	_	7	comp:obj	_	gov2=0|gov2_score=0|gov_score=69|rel_score=69.86|tag_score=69.86
+9	c'	ce	PRON	_	_	10	subj	_	gov2=0|gov2_score=0|gov_score=69|rel_score=69.86|SpaceAfter=No|tag_score=69.86
+10	est	être	AUX	_	_	8	mod	_	gov2=0|gov2_score=25.61|gov_score=36|rel2=root|rel2_score=25.61|rel_score=36.31|tag_score=69.86
+11	un	un	DET	_	_	12	det	_	gov2=0|gov2_score=0|gov_score=69|rel_score=69.86|tag_score=69.86
+12	film	film	NOUN	_	_	10	comp:pred	_	gov2=0|gov2_score=0|gov_score=69|rel_score=69.86|tag_score=69.86
+13	d'	d'	ADP	_	_	12	mod	_	gov2=0|gov2_score=0|gov_score=69|rel_score=69.86|SpaceAfter=No|tag_score=69.86
+14	action	action	NOUN	_	_	13	comp:obj	_	gov2=0|gov2_score=0|gov_score=69|rel_score=69.86|tag_score=69.86
+15	,	_	PUNCT	_	_	4	punct	_	gov2=15|gov2_score=13.75|gov_score=32|rel_score=56.11|tag_score=69.86
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_53
+# text = mais .
+# timestamp = 1590507647.446377
+1	mais	mais	CCONJ	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=52|rel_score=52.77|tag2_score=7.5|tag_score=38.61
+2	.	_	PUNCT	_	_	1	punct	_	gov2=0|gov2_score=0|gov_score=52|rel_score=52.77|tag_score=52.77
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_54
+# text = du coup tu vas t' asseoir euh en général au premier rang parce que après euh , si tu , si t' essaies de monter dans les , dans les étages les gens te regardent archi mal .
+# timestamp = 1590507647.446379
+1	du	de+le	ADP	_	_	4	discourse	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+2	coup	coup	NOUN	_	_	1	comp:obj	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+3	tu	tu	PRON	_	_	4	subj	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+4	vas	aller	VERB	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+5	t'	te	PRON	_	_	6	comp:obj	_	gov2=0|gov2_score=0|gov_score=58|rel2=comp@fixed|rel2_score=15.92|rel_score=42.49|SpaceAfter=No|tag_score=58.41
+6	asseoir	asseoir	VERB	_	_	4	comp:obj@x	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+7	euh	euh	INTJ	_	_	10	discourse	_	gov2=8|gov2_score=15.92|gov_score=42|rel_score=58.41|tag_score=58.41
+8	en	en	ADP	_	_	6	mod	_	gov2=10|gov2_score=29.16|gov_score=29|highlight=pink|rel_score=58.41|tag_score=58.41
+9	général	général	ADJ	_	_	8	comp:obj	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag2_score=15.92|tag_score=42.49
+10	au	à+le	ADP	_	_	6	mod	_	gov2=0|gov2_score=0|gov_score=58|rel2=comp:obl|rel2_score=15.92|rel_score=42.49|tag_score=58.41
+11	premier	premier	ADJ	_	_	12	mod	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+12	rang	rang	NOUN	_	_	10	comp:obj	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+13	parce	parce	SCONJ	_	_	6	mod	_	gov2=4|gov2_score=29.16|gov_score=29|highlight=pink|rel_score=58.41|tag_score=58.41
+14	que	que	SCONJ	_	_	13	unk@fixed	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+15	après	après	ADP	_	_	35	discourse	_	gov2=13|gov2_score=13.33|gov_score=45|rel_score=58.41|tag2_score=14.58|tag_score=43.83
+16	euh	euh	INTJ	_	_	15	discourse	_	gov2=13|gov2_score=13.33|gov_score=45|rel_score=58.41|tag_score=58.41
+17	,	_	PUNCT	_	_	15	punct	_	gov2=16|gov2_score=13.33|gov_score=45|rel_score=58.41|tag_score=58.41
+18	si	si	SCONJ	_	_	35	mod	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+19	tu	tu	PRON	_	_	18	comp:obj@scrap	_	gov2=23|gov2_score=13.33|gov_score=45|rel2=comp:obj|rel2_score=14.58|rel_score=30.5|tag_score=58.41
+20	,	_	PUNCT	_	_	21	punct	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+21	si	si	SCONJ	_	_	18	conj:dicto	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+22	t'	te	PRON	_	_	23	subj	_	gov2=19|gov2_score=13.33|gov_score=45|rel2=conj:dicto|rel2_score=13.33|rel_score=45.08|SpaceAfter=No|tag_score=58.41
+23	essaies	essaie	VERB	_	_	21	comp:obj	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+24	de	de	ADP	_	_	23	comp:obl@x	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+25	monter	monter	VERB	_	_	24	comp:obj	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+26	dans	dans	ADP	_	_	25	mod	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+27	les	le	DET	_	_	26	comp:obj	_	gov2=31|gov2_score=13.33|gov_score=45|rel2=comp:obj@scrap|rel2_score=14.58|rel_score=30.5|tag_score=58.41
+28	,	_	PUNCT	_	_	29	punct	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+29	dans	dans	ADP	_	_	26	conj:dicto	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+30	les	le	DET	_	_	31	det	_	gov2=27|gov2_score=13.33|gov_score=45|rel2=conj:dicto|rel2_score=13.33|rel_score=45.08|tag_score=58.41
+31	étages	étage	NOUN	_	_	29	comp:obj	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+32	les	le	DET	_	_	33	det	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+33	gens	gens	NOUN	_	_	35	subj	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+34	te	te	PRON	_	_	35	comp:obj	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+35	regardent	regarder	VERB	_	_	13	comp:obj	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+36	archi	archir	ADV	_	_	37	mod	_	gov2=0|gov2_score=0|gov_score=58|highlight=pink|rel_score=58.41|tag2_score=27.91|tag_score=30.5
+37	mal	mal	ADV	_	_	35	mod	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+38	.	_	PUNCT	_	_	4	punct	_	gov2=0|gov2_score=0|gov_score=58|rel_score=58.41|tag_score=58.41
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_55
+# text = tu peux , tu peux payer un peu moins d' un euro .
+# timestamp = 1590507647.446381
+1	tu	tu	PRON	_	_	2	subj	_	gov2=0|gov2_score=0|gov_score=60|rel_score=60.77|tag_score=60.77
+2	peux	pouvoir	VERB	_	_	0	root	_	gov2=5|gov2_score=8.5|gov_score=52|rel2=conj:coord|rel2_score=13.69|rel_score=38.58|tag_score=60.77
+3	,	_	PUNCT	_	_	5	punct	_	gov2=0|gov2_score=0|gov_score=60|rel_score=60.77|tag_score=60.77
+4	tu	tu	PRON	_	_	5	subj	_	gov2=0|gov2_score=0|gov_score=60|rel_score=60.77|tag_score=60.77
+5	peux	pouvoir	VERB	_	_	2	conj:dicto	_	gov2=0|gov2_score=8.5|gov_score=52|rel2=root|rel2_score=8.5|rel_score=52.27|tag2_score=1.83|tag_score=58.94
+6	payer	payer	VERB	_	_	5	comp:obj@x	_	gov2=0|gov2_score=0|gov_score=60|rel2=comp:obl@x|rel2_score=8.5|rel_score=52.27|tag_score=60.77
+7	un	un	DET	_	_	8	det@fixed	_	gov2=0|gov2_score=0|gov_score=60|rel_score=60.77|tag_score=60.77
+8	peu	peu	ADV	_	_	9	mod	_	gov2=12|gov2_score=8.5|gov_score=52|rel_score=60.77|tag2_score=27.69|tag_score=33.08
+9	moins	moins	ADV	_	_	6	comp:obj	_	gov2=12|gov2_score=14.83|gov_score=37|rel2=mod|rel2_score=23.33|rel_score=25.58|tag_score=60.77
+10	d'	d'	ADP	_	_	9	comp:obl	_	gov2=11|gov2_score=1.83|gov_score=58|rel2=fixed|rel2_score=19.39|rel_score=39.55|SpaceAfter=No|tag_score=60.77
+11	un	un	DET	_	_	12	det	_	gov2=10|gov2_score=14.83|gov_score=45|rel2=comp:obj|rel2_score=14.83|rel_score=45.94|tag2_score=12.86|tag_score=47.91
+12	euro	euro	NOUN	_	_	10	comp:obj	_	gov2=6|gov2_score=23.33|gov_score=35|rel_score=60.77|tag_score=60.77
+13	.	_	PUNCT	_	_	2	punct	_	gov2=5|gov2_score=19.39|gov_score=29|rel_score=60.77|tag_score=60.77
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_56
+# text = et la salle elle est pleine ,
+# timestamp = 1590507647.446384
+1	et	et	CCONJ	_	_	5	cc	_	gov2=0|gov2_score=0|gov_score=16|rel_score=16.78|tag_score=16.78
+2	la	le	DET	_	_	3	det	_	gov2=0|gov2_score=0|gov_score=16|rel_score=16.78|tag_score=16.78
+3	salle	_	NOUN	_	_	5	dislocated	_	gov2=0|gov2_score=0|gov_score=16|rel_score=16.78|tag_score=16.78
+4	elle	il	PRON	_	_	5	subj	_	gov2=0|gov2_score=0|gov_score=16|rel_score=16.78|tag_score=16.78
+5	est	être	AUX	_	_	0	root	_	gov2=1|gov2_score=0|gov_score=16|rel2=root|rel2_score=7.28|rel_score=9.5|tag_score=16.78
+6	pleine	_	ADJ	_	_	5	comp:pred	_	gov2=0|gov2_score=0|gov_score=16|rel_score=16.78|tag_score=16.78
+7	,	_	PUNCT	_	_	5	punct	_	gov2=0|gov2_score=0|gov_score=16|rel_score=16.78|tag_score=16.78
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_57
+# text = c' est vraiment , il y avait des fois , on était vraiment beaucoup ,
+# timestamp = 1590507647.446386
+1	c'	ce	PRON	_	_	2	subj	_	gov2=0|gov2_score=0|gov_score=76|rel2=subj@expl|rel2_score=15.92|rel_score=60.37|SpaceAfter=No|tag_score=76.29
+2	est	être	AUX	_	_	0	root	_	gov2=15|gov2_score=21.81|gov_score=40|rel2=discourse|rel2_score=13.75|rel_score=40.73|tag2_score=15.92|tag_score=60.37
+3	vraiment	vraiment	ADV	_	_	2	mod	_	gov2=0|gov2_score=0|gov_score=76|rel2=comp:pred|rel2_score=26.06|rel_score=28.42|tag_score=76.29
+4	,	_	PUNCT	_	_	7	punct	_	gov2=12|gov2_score=29.2|gov_score=33|rel_score=76.29|tag_score=76.29
+5	il	il	PRON	_	_	7	subj@expl	_	gov2=0|gov2_score=0|gov_score=76|rel2=subj|rel2_score=34.12|rel_score=42.17|tag2_score=8.5|tag_score=67.79
+6	y	y	PRON	_	_	7	comp:obl	_	gov2=0|gov2_score=0|gov_score=76|rel2=mod|rel2_score=22.28|rel_score=54.01|tag_score=76.29
+7	avait	avoir	VERB	_	_	12	mod	_	gov2=0|gov2_score=21.81|gov_score=50|rel2=root|rel2_score=21.81|rel_score=38.17|tag2_score=12.31|tag_score=63.98
+8	des	de+le	DET	_	_	9	det	_	gov2=7|gov2_score=15.92|gov_score=60|rel2=comp:obl|rel2_score=15.92|rel_score=60.37|tag2_score=29.2|tag_score=47.09
+9	fois	fois	NOUN	_	_	7	comp:obj	_	gov2=8|gov2_score=15.92|gov_score=60|rel2=mod|rel2_score=21.78|rel_score=54.51|tag_score=76.29
+10	,	_	PUNCT	_	_	12	punct	_	gov2=0|gov2_score=0|gov_score=76|rel_score=76.29|tag_score=76.29
+11	on	on	PRON	_	_	12	subj	_	gov2=0|gov2_score=0|gov_score=76|rel_score=76.29|tag_score=76.29
+12	était	être	AUX	_	_	2	conj:dicto	_	gov2=15|gov2_score=20.84|gov_score=37|rel2=root|rel2_score=13.75|rel_score=29.2|tag2_score=15.92|tag_score=60.37
+13	vraiment	vraiment	ADV	_	_	14	mod	_	gov2=12|gov2_score=36.73|gov_score=39|rel2=comp:pred|rel2_score=12.31|rel_score=63.98|tag2_score=12.5|tag_score=63.79
+14	beaucoup	beaucoup	ADV	_	_	12	comp:pred	_	gov2=0|gov2_score=0|gov_score=76|rel2=mod|rel2_score=20.81|rel_score=31.03|tag_score=76.29
+15	,	_	PUNCT	_	_	2	punct	_	gov2=15|gov2_score=21.81|gov_score=40|rel_score=54.48|tag_score=76.29
+
+
+# user_id = kimgerdes
+# user_id = kimgerdes
+# sent_id = ParisStories_2019_astuceCinema_58
+# text = et les gens te détèstent grave . 
+# timestamp = 1590926775732
+# text_en = sqdf
+1	et	et	CCONJ	_	_	5	cc	_	gov2=0|gov2_score=0|gov_score=31|rel_score=31.11|tag_score=31.11
+2	les	le	DET	_	_	3	det	_	gov2=0|gov2_score=0|gov_score=31|rel_score=31.11|tag_score=31.11
+3	gens	gens	NOUN	_	_	5	subj	_	gov2=0|gov2_score=0|gov_score=31|rel_score=31.11|tag_score=31.11
+4	te	te	PRON	_	_	5	comp:obj	_	gov2=3|gov2_score=7.28|gov_score=23|rel_score=31.11|tag_score=31.11
+5	détèstent	détèster	VERB	_	_	0	root	_	gov2=6|gov2_score=7.28|gov_score=23|rel2=mod|rel2_score=7.28|rel_score=23.83|tag_score=31.11
+6	grave	grave	ADJ	_	_	5	mod	_	gov2=7|gov2_score=7.28|gov_score=23|rel_score=23.83|tag_score=31.11
+7	.	_	PUNCT	_	_	5	punct	_	gov2=7|gov2_score=8.53|gov_score=22|rel_score=22.58|tag_score=31.11
